@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # Reagent & Buffer Recipes
 
 ## Reagents
@@ -48,7 +43,7 @@ output:
 |Glacial acetic acid | 57.1 mL  |
 |Na2 EDTA.2H2O       |18.61 g   |
 |ddH2O               | To 1 L   |
-[1x TAE = 40 mM Tris base, 40 mM Acetic acid, 1 mM EDTA]
+1x TAE = 40 mM Tris base, 40 mM Acetic acid, 1 mM EDTA
 
 ### 10x TE
 |Reagent     |Amount  |
