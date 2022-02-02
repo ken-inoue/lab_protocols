@@ -27,6 +27,12 @@
 | EDTA     |2.33 g        |
 | ddH2O    |50 mL         |
 
+### 10% CTAB
+| Chemical  | Amount |
+|:----------|:-------|
+|CTAB       |10 g    |
+|ddH2O      |100 mL  |
+
 ### 3 M NaOAc pH5.2
 |Chemical               |Amount        |
 |:----------------------|:-------------|
@@ -35,6 +41,16 @@
 |ddH2O                  |To 50 mL      |
 
 ## Buffers
+
+### 2x CTAB
+|Reagent          |Amount |
+|:----------------|:------|
+|1M Tris pH 8.0   |10 mL  |
+|5M NaCl          |28 mL  |
+|0.5M EDTA pH 8.0 |4 mL   |
+|10% CTAB         | 20 mL |
+|Mercaptoethanol  |0.2 mL |
+| ddH2O           |37.8 mL|
 
 ### 50x TAE
 |Reagent             |Amount    |
