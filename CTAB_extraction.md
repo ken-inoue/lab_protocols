@@ -47,14 +47,14 @@ See “Procedure”.
 16. Discard the upper layer (70% ethanol). (Same fashion as step 13).
 17. Invert the microcentrifuge tube on a paper towel and let the DNA pellet air dry for 30 minutes (until residual ethanol evaporates. DO NOT OVER DRY).
 18. Resuspend the DNA pellet in molecular grade water (50µl) and incubate at 55°C for 1 hour.
-19. Qualify the DNA via [agarose gel electrophoresis](gel.electrophoresis.md)
+19. Qualify the DNA via [agarose gel electrophoresis](gel_electrophoresis.md)
 20. Store DNA in freezer.
 
 ### CLEAN UP
 Place chloroform wastes into the liquid waste in fume hood. 
 
 ### DATA ANALYSIS AND CALCULATIONS
-See protocol for [agarose gel electrophoresis](gel.electrophoresis.md) and spectrophotometer.
+See protocol for [agarose gel electrophoresis](gel_electrophoresis.md) and spectrophotometer.
 
 ### NOTES
 Prepare 2x CTAB in fume hood. Do not inhale chloroform.
