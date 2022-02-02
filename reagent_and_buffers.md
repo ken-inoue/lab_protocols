@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # Reagent & Buffer Recipes
 
 ## Reagents
@@ -28,10 +33,42 @@
 | ddH2O    |50 mL         |
 
 ### 3 M NaOAc pH5.2
-|Chemical   |Amount        |
-|:----------|:-------------|
-|NaOAc      |20.4 g        |
-|Acetic acid| To adjust pH |
-|ddH2O      |To 50 mL      |
+|Chemical               |Amount        |
+|:----------------------|:-------------|
+|NaOAc (sodium acetate) |20.4 g        |
+|Glacial acetic acid    | To adjust pH |
+|ddH2O                  |To 50 mL      |
 
 ## Buffers
+
+### 50x TAE
+|Reagent             |Amount    |
+|:-------------------|:---------|
+|Tris base           | 242.0 g  |
+|Glacial acetic acid | 57.1 mL  |
+|Na2 EDTA.2H2O       |18.61 g   |
+|ddH2O               | To 1 L   |
+[1x TAE = 40 mM Tris base, 40 mM Acetic acid, 1 mM EDTA]
+
+### 10x TE
+|Reagent     |Amount  |
+|:-----------|:-------|
+|1 M Tris-HCl|  50 mL |
+|0.5 M EDTA	 | 10 mL  |
+| ddH2O      |460 mL  |
+
+### 6x Loading dye
+|Reagent                  |Amount |
+|:------------------------|:------|
+|Glycerol (50%)           |25 mL  |
+|10% SDS                  |0.5 mL |
+|Bromophenol blue (0.25%) |0.125 g|
+|ddH2O                    |24.5 mL|
+
+### 10x Sequencing Buffer
+|Reagent            | Amount |
+|:------------------|:-------|
+|2M Tris-HCl pH 9.0	|2 mL    |
+|1M MgCl2           |100 µL  |
+|ddH2O              |7.9 mL  |
+* Autoclave
