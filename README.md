@@ -8,7 +8,7 @@ Lab protocols for the Freshwater Mussel Lab
 - Stock vs. working DNA dilutions
 
 ## Molecular Biology
-- CTAB/chroloform DNA extraction
+- [CTAB/chroloform DNA extraction](CTAB_extraction.md)
 - Agarose gel electrophoresis
 - PCR (Sanger sequencing)
 - PCR (fragment analysis)
