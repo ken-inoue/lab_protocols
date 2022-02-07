@@ -7,7 +7,7 @@ This is a general DNA/RNA lab manual from how to make reagents to DNA sequencing
 - General lab preparation
 - Reagent and buffer recipes
 
-## Lab protocols
+## Protocols
 - DNA Extraction
   - Phenol/Chloroform Extraction
   - [CTAB/chroloform DNA extraction](CTAB_extraction.md)
