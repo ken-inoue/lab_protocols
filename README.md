@@ -5,7 +5,7 @@ This is a general DNA/RNA lab manual from how to make reagents to DNA sequencing
 
 ## Lab Management & Maintenance
 - [General lab preparation](general_lab_preparation.md)
-- Reagent and buffer recipes
+- [Reagent and buffer recipes](reagent_and_buffers.md)
 
 ## Protocols
 - DNA Extraction
