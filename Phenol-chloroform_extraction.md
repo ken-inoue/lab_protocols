@@ -16,7 +16,7 @@ This is a procedure for Phenol/Chloroform extraction. This protocol is designed 
 - Freezer
 
 ### REAGENTS AND STANDARDS
-- [Lysis buffer](reagent_and_buffers.md)
+- [Lysis buffer](reagent_and_buffers.md#lysis-buffer)
 - Proteinase K (20 mg/mL)
 - Phenol (refrigerator)
 - Mix of phenol/chloroform/isomyl alcohol (25:24:1) (refrigerator)
