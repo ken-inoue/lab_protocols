@@ -4,7 +4,7 @@
 This is a general DNA/RNA lab manual from how to make reagents to DNA sequencing, microsatellite genotyping via fragment analysis, and quantifying gene expression via qPCR. This manual provides a starting point and may need optimization and modification for your study. Each study will require fine-tuning of the manual.
 
 ## Lab Management & Maintenance
-- General lab preparation
+- [General lab preparation](general_lab_preparation.md)
 - Reagent and buffer recipes
 
 ## Protocols
