@@ -42,6 +42,16 @@
 
 ## Buffers
 
+### Lysis buffer
+|Reagent         |Amount |
+|:---------------|:------|
+|5M NaCl         |1.5 mL |
+|0.5M EDTA pH 8.0| 1 mL |
+|1M Tris pH 8.0  |0.5 mL |
+|10% SDS         |5 mL |
+|ddH2O           | 42 mL|
+
+
 ### 2x CTAB
 |Reagent          |Amount |
 |:----------------|:------|
