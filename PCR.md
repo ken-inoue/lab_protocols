@@ -1,6 +1,6 @@
-#PCR
+# PCR
 
-###SUMMARY
+### SUMMARY
 
 This is a procedure for amplification of gene segments. This protocol was designed specifically for mtDNA gene and microsatellite locus amplification. Each study will require fine tuning of this protocol as PCR protocols may not transfer well from one study to another. This protocol provides a starting point but may need modifications (see PCR optimization procedure and troubleshooting).
 
