@@ -9,7 +9,7 @@ This is a general DNA/RNA lab manual from how to make reagents to DNA sequencing
 
 ## Protocols
 - DNA Extraction
-  - Phenol/Chloroform Extraction
+  - [Phenol/Chloroform Extraction](Phenol-chloroform_extraction.md)
   - [CTAB/chroloform DNA extraction](CTAB_extraction.md)
   - Commercial DNA extraction kits
 - RNA Extraction
