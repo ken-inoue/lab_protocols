@@ -1,5 +1,3 @@
-# DNA Extraction
-
 ## CTAB/Chroloform Extraction
 
 ### Summary
