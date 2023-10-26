@@ -1,4 +1,4 @@
-# Primers for Sanger sequencing
+## Primers for Sanger Sequencing
 
 |Gene  |Primer name |Original name|Sequence|Reference|
 |:-----|:-----------|:------------|:-------|:--------|
