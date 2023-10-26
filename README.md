@@ -7,7 +7,8 @@ This is a general DNA/RNA lab manual from how to make reagents to DNA sequencing
 - Tissue swabs
 
 ## Lab Management & Maintenance
-- [General Lab Preparation](general_lab_preparation.md)
+- [Lab Management](general_lab_preparation.md)
+- Supplies
 - [Reagent & Buffer Recipes](reagent_and_buffers.md)
 
 ## Extraction
@@ -15,20 +16,25 @@ This is a general DNA/RNA lab manual from how to make reagents to DNA sequencing
 - [Phenol/Chloroform Extraction](Phenol-chloroform_extraction.md)
 
 ## Quantification & Qualification of DNA 
-- [Agarose gel electrophoresis](gel_electrophoresis.md)
+- [Electrophoresis](gel_electrophoresis.md)
 - Qubit
 
 ## PCR
 - PCR (general & Sanger sequencing)
 - PCR (genotype via fragment analysis)
 - PCR cleanup
+
+## Sanger Sequencing 
 - Cycle sequencing reaction
 - Sanger sequencing
+
+## GeneMapper
 - Fragment analysis
 
 ## RADSeq
 
+- Adapters
 
 ## Oxford Nanpore
 
-
+- Multiplex barcodes
