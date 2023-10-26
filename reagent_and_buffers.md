@@ -15,7 +15,7 @@
 |HCl       | To adjust pH |
 |ddH2O	   | To 500 mL    |
 
-### 0.5 M EDTA pH8.0
+### 0.5 M EDTA, pH8.0
 |Chemical  | Amount       |
 |:---------|:-------------|
 |EDTA	     | 37.22 g      |
@@ -32,6 +32,7 @@
 |:----------|:-------|
 |CTAB       |10 g    |
 |ddH2O      |100 mL  |
+* Heating required
 
 ### 3 M NaOAc pH5.2
 |Chemical               |Amount        |
@@ -42,7 +43,7 @@
 
 ## Buffers
 
-### Lysis buffer
+### Lysis Buffer Solution
 |Reagent         |Amount |
 |:---------------|:------|
 |5M NaCl         |1.5 mL |
@@ -52,7 +53,7 @@
 |ddH2O           | 42 mL|
 
 
-### 2x CTAB
+### 2x CTAB Buffer Solution
 |Reagent          |Amount |
 |:----------------|:------|
 |1M Tris pH 8.0   |10 mL  |
@@ -62,7 +63,7 @@
 |Mercaptoethanol  |0.2 mL |
 | ddH2O           |37.8 mL|
 
-### 50x TAE
+### 50x TAE Buffer Solution
 |Reagent             |Amount    |
 |:-------------------|:---------|
 |Tris base           | 242.0 g  |
@@ -71,14 +72,14 @@
 |ddH2O               | To 1 L   |
 * 1x TAE = 40 mM Tris base, 40 mM Acetic acid, 1 mM EDTA
 
-### 10x TE
+### 10x TE Buffer Solution
 |Reagent     |Amount  |
 |:-----------|:-------|
 |1 M Tris-HCl|  50 mL |
 |0.5 M EDTA	 | 10 mL  |
 | ddH2O      |460 mL  |
 
-### 6x Loading dye
+### 6x Loading Dye Solution
 |Reagent                  |Amount |
 |:------------------------|:------|
 |Glycerol (50%)           |25 mL  |
@@ -86,7 +87,7 @@
 |Bromophenol blue (0.25%) |0.125 g|
 |ddH2O                    |24.5 mL|
 
-### 10x Sequencing Buffer
+### 10x Sequencing Buffer Solution
 |Reagent            | Amount |
 |:------------------|:-------|
 |2M Tris-HCl pH 9.0	|2 mL    |
