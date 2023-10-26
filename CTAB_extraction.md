@@ -3,7 +3,7 @@
 ## CTAB/Chroloform Extraction
 
 ### Summary
-This is a procedure for CTAB/Chloroform extraction. This protocol is designed for general whole genomic DNA extraction from ethanol preserved tissue samples. You may need to optimize and modify this protocol for your study. Yields DNA suitable for PCR. Protocol requires overnight incubation
+This is a procedure for CTAB/Chloroform extraction. This protocol is designed for general whole genomic DNA extraction from ethanol preserved tissue and swab samples. You may need to optimize and modify this protocol for your study. Yields DNA suitable for PCR. Protocol requires overnight incubation
 
 ### Equipment & Supplies
 - Water bath (or Heat Block)
@@ -23,7 +23,7 @@ This is a procedure for CTAB/Chloroform extraction. This protocol is designed fo
 - 70% ethanol (-20°C freezer)
 
 ### Sample Preparation & Storage
-Tissue may be stored in 100-95% ethanol or frozen. Formalin preserved material is not suitable for this method.
+Tissues may be stored in 100-95% ethanol or frozen. Formalin preserved material is not suitable for this method.
 
 ### Equipment Preparation
 See “Procedure”.
@@ -40,10 +40,14 @@ See “Procedure”.
 5. Incubate at 65°C for one hour in water bath.
 6. Take specimens out of 65°C water bath and add 5µL proteinase K.
 7. Incubate at 55°C for at least 3 hours to overnight in water bath.
+
+#### Isolation
 8. Add 700µL chloroform and vortex vigorously for 30 seconds.
 9. Centrifuge at 10,000 rcf for 5 minutes.
 10. Move the supernatant (top, clear layer only) into a new (labeled) microcentrifuge tube using a pipette. (Discard the bottom layers in chemical wastes)
 11. Precipitate DNA by adding 600µL isopropanol (ice cold), vortex for 30 seconds, and place in -20°C freezer overnight.
+
+#### Precipitation
 12. Centrifuge at maximum speed (>16,000 rcf) for 30 minutes.
 13. Discard the upper isopropanol layer (To do this: generally, a small pellet has formed at the bottom of the tube [NOT ALWAYS VISIBLE]. Gently tip the tube and pour off the ethanol, being careful not to let the pellet fall out of the tube. Sometimes they make it easy on you and stick to the side, but sometimes you need to be more careful.)
 14. Add 200µL of ice cold 70% ethanol and briefly vortex.
@@ -51,14 +55,13 @@ See “Procedure”.
 16. Discard the upper layer (70% ethanol). (Same fashion as step 13).
 17. Invert the microcentrifuge tube on a paper towel and let the DNA pellet air dry for 30 minutes (until residual ethanol evaporates. DO NOT OVER DRY).
 18. Resuspend the DNA pellet in molecular grade water (50µl) and incubate at 55°C for 1 hour.
-19. Qualify the DNA via [agarose gel electrophoresis](gel_electrophoresis.md)
-20. Store DNA in freezer.
+19. Briefly vortex and spin down; store DNA in freezer.
 
-### CLEAN UP
+### Clean Up
 Place chloroform wastes into the liquid waste in fume hood. 
 
-### DATA ANALYSIS AND CALCULATIONS
-See protocol for [agarose gel electrophoresis](gel_electrophoresis.md) and spectrophotometer.
+### Data Analysis and Calculation
+See protocol for [agarose gel electrophoresis](gel_electrophoresis.md) and Qubit.
 
 ### NOTES
 Prepare 2x CTAB in fume hood. Do not inhale chloroform.
