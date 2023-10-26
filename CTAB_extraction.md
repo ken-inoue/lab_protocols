@@ -3,10 +3,10 @@
 ## CTAB/Chroloform Extraction
 
 ### Summary
-This is a procedure for CTAB/Chloroform extraction. This protocol is designed for general whole genomic DNA extraction from ethanol preserved tissue and swab samples. You may need to optimize and modify this protocol for your study. Yields DNA suitable for PCR. Protocol requires overnight incubation
+This is a procedure for CTAB/Chloroform extraction. This protocol is designed for whole genomic DNA extraction from ethanol-preserved tissue and swab samples. You may need to optimize and modify this protocol for your study. It yields DNA suitable for PCR and sequencing. Protocol requires overnight incubation
 
 ### Equipment & Supplies
-- Water bath (or Heat Block)
+- Water bath (or heat block)
 - Fume hood
 - Centrifuge
 - Vortex
@@ -26,36 +26,42 @@ This is a procedure for CTAB/Chloroform extraction. This protocol is designed fo
 Tissues may be stored in 100-95% ethanol or frozen. Formalin preserved material is not suitable for this method.
 
 ### Equipment Preparation
-See “Procedure”.
+See “Procedure” section.
 
 ### Procedure
 
 #### Preparation
-1. Turn on water bath to 65°C to begin heating for use in later step.
-2. Label 2 sets of microcentrifuge tubes for each sample appropriately.
+1. Turn on the water bath and set it to 65°C for heating in a later step.
+2. Appropriately label 2 sets of microcentrifuge tubes for each sample.
 
 #### Lysis
-3. Dissect a piece of tissue from the specimen (mantle tissue for mussels, head or mantle tissue for gastropod, appendages for amphipod and insects) approximately the size of a small match head and place into a microcentrifuge tube.
-4. Add 700µL 2x CTAB.
-5. Incubate at 65°C for one hour in water bath.
-6. Take specimens out of 65°C water bath and add 5µL proteinase K.
-7. Incubate at 55°C for at least 3 hours to overnight in water bath.
+3. Dissect a piece of tissue from the specimen or place a swab sample into a microcentrifuge tube.
+ - For tissue samples, cut a mantle tissue to the size of a small match head (2 x 2 mm).
+ - For swab samples, remove excess ethanol from the swabs by rubbing it against the tube walls before placing into a microcentrifuge tube.
+4. Add 700 µL of 2x CTAB buffer.
+5. Incubate at 65°C for one hour in the water bath.
+6. Remove tubes from the water bath and add 5 µL of proteinase K solution.
+7. Incubate at 65°C for at least 3 hours to overnight in the water bath.
 
 #### Isolation
-8. Add 700µL chloroform and vortex vigorously for 30 seconds.
-9. Centrifuge at 10,000 rcf for 5 minutes.
-10. Move the supernatant (top, clear layer only) into a new (labeled) microcentrifuge tube using a pipette. (Discard the bottom layers in chemical wastes)
-11. Precipitate DNA by adding 600µL isopropanol (ice cold), vortex for 30 seconds, and place in -20°C freezer overnight.
+8. Remove tubes from the water bath and cool to room temperature.
+ - For the swab samples, remove swabs from the tubes and discard them. 
+9. Add 700 µL of chloroform and vortex vigorously for 30 seconds.
+10. Centrifuge at 11,000 rcf for 10 minutes.
+11. Transfer the supernatant (top, clear layer only) into a new (labeled) microcentrifuge tube using a pipette. (Discard the bottom layers in chemical wastes.)
+12. Precipitate DNA by adding 700 µL of ice-cold isopropanol, vortex for 10 seconds, and place in a -20°C freezer overnight.
 
 #### Precipitation
-12. Centrifuge at maximum speed (>16,000 rcf) for 30 minutes.
-13. Discard the upper isopropanol layer (To do this: generally, a small pellet has formed at the bottom of the tube [NOT ALWAYS VISIBLE]. Gently tip the tube and pour off the ethanol, being careful not to let the pellet fall out of the tube. Sometimes they make it easy on you and stick to the side, but sometimes you need to be more careful.)
-14. Add 200µL of ice cold 70% ethanol and briefly vortex.
-15. Centrifuge at maximum speed (>16,000 rcf) for 30 minutes
-16. Discard the upper layer (70% ethanol). (Same fashion as step 13).
-17. Invert the microcentrifuge tube on a paper towel and let the DNA pellet air dry for 30 minutes (until residual ethanol evaporates. DO NOT OVER DRY).
-18. Resuspend the DNA pellet in molecular grade water (50µl) and incubate at 55°C for 1 hour.
-19. Briefly vortex and spin down; store DNA in freezer.
+13. Centrifuge at maximum speed (>16,000 rcf) for 30 minutes.
+14. Discard the liquid layer.
+ - Generally, a small pellet is fomred at the bottom of the tube (however, not always visible). Gently tip the tube and pour off the liquid layer into an empty beaker, being careful not to let the pellet fall out of the tube.
+ - Occasionally, two layers of liquid are formed instead of a small pellet. Discard the supernatant using a pipette.
+15. Add 200 µL of ice-cold 70% ethanol and briefly vortex.
+16. Centrifuge at maximum speed (>16,000 rcf) for 30 minutes
+17. Discard the liquid layer (70% ethanol). (Same fashion as step 14).
+18. Invert the microcentrifuge tube on a paper towel and let the DNA pellet air-dry for 30 minutes (until residual ethanol evaporates. DO NOT OVER DRY).
+19. Resuspend the DNA pellet in molecular-grade water (50 µl) and incubate at 55°C for 1 hour.
+20. Briefly vortex and spin down; store DNA in freezer.
 
 ### Clean Up
 Place chloroform wastes into the liquid waste in fume hood. 
