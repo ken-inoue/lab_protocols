@@ -1,4 +1,4 @@
-# Protocols used  in the Freshwater Mussel Lab at Shedd Aquarium
+## Protocols used  in the Freshwater Mussel Lab at Shedd Aquarium
 
 This is a general DNA/RNA lab manual from how to make reagents to DNA sequencing, microsatellite genotyping via fragment analysis, and quantifying gene expression via qPCR. This manual provides a starting point and may need optimization and modification for your study. Each study will require fine-tuning of the manual.
 
@@ -29,6 +29,4 @@ This is a general DNA/RNA lab manual from how to make reagents to DNA sequencing
 
 ## Oxford Nanpore
 
-## Reagents
-- EDTA Solution
-- 50x TAE Buffer Solution
+
