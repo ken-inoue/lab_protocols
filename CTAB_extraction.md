@@ -1,12 +1,12 @@
 # DNA Extraction
 
-## CTAB/chroloform extraction
+## CTAB/Chroloform Extraction
 
-### SUMMARY
+### Summary
 This is a procedure for CTAB/Chloroform extraction. This protocol is designed for general whole genomic DNA extraction from ethanol preserved tissue samples. You may need to optimize and modify this protocol for your study. Yields DNA suitable for PCR. Protocol requires overnight incubation
 
-### EQUIPMENT AND SUPPLIES
-- Water bath
+### Equipment & Supplies
+- Water bath (or Heat Block)
 - Fume hood
 - Centrifuge
 - Vortex
@@ -15,22 +15,26 @@ This is a procedure for CTAB/Chloroform extraction. This protocol is designed fo
 - Microcentrifuge tubes
 - Freezer
 
-### REAGENTS AND STANDARDS
+### Reagents & Standards
 - [2x CTAB buffer](reagent_and_buffers.md#2x-ctab)
 - Proteinase K (20 mg/mL)
-- Chloroform
-- Isopropanol (freezer)
-- 70% ethanol (freezer)
+- Chloroform (Fume hood)
+- Isopropanol (-20°C freezer)
+- 70% ethanol (-20°C freezer)
 
-### SAMPLE PREPARATION AND STORAGE
+### Sample Preparation & Storage
 Tissue may be stored in 100-95% ethanol or frozen. Formalin preserved material is not suitable for this method.
 
-### EQUIPMENT PREPARATION
+### Equipment Preparation
 See “Procedure”.
 
-### PROCEDURE
+### Procedure
+
+#### Preparation
 1. Turn on water bath to 65°C to begin heating for use in later step.
 2. Label 2 sets of microcentrifuge tubes for each sample appropriately.
+
+#### Lysis
 3. Dissect a piece of tissue from the specimen (mantle tissue for mussels, head or mantle tissue for gastropod, appendages for amphipod and insects) approximately the size of a small match head and place into a microcentrifuge tube.
 4. Add 700µL 2x CTAB.
 5. Incubate at 65°C for one hour in water bath.
