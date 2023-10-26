@@ -19,6 +19,9 @@ This is a general DNA/RNA lab manual from how to make reagents to DNA sequencing
 - [Electrophoresis](gel_electrophoresis.md)
 - Qubit
 
+## Primers
+- Routine Genetic Markers for DNA Barcoding
+
 ## PCR
 - PCR (general & Sanger sequencing)
 - PCR (genotype via fragment analysis)
