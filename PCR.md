@@ -1,9 +1,9 @@
-# PCR
+## PCR
 
-### SUMMARY
+### Summary
 This is a procedure for polymerase chain reaction (PCR). This protocol was designed specifically for Sanger sequencing and microsatellite genotyping via fragment analysis. Each study will require fine tuning of this protocol as PCR protocols may not transfer well from one study to another. This protocol provides a starting point but may need modifications (see PCR optimization procedure and troubleshooting).
 
-### EQUIPMENT AND SUPPLIES
+### Equipment & Supplies
 - Vortex
 - Pipettes
 - Pipette tips
@@ -12,27 +12,27 @@ This is a procedure for polymerase chain reaction (PCR). This protocol was desig
 - Table-top spinner
 - Thermal cycler
 
-### REAGENTS AND STANDARDS
+### Reagents & Standards
 - Template DNA (~10 ng/µL)
-- Taq Master Mix (Promega, Qiagen, etc.)
+- Taq Master Mix (GoTaq Master Mix, Promega)
 - Forward & reverse primers
-- Molecular grade H2O
-- MgCl2 (optional)
+- Molecular-grade H2O
 
-### SAMPLE PREPARATION AND STORAGE
-All reagents should be kept frozen until you are ready to use. Excessive freezing and thawing will kill Taq. The other materials may be thawed and allowed to set out during preparation.
+### Sample Preparation & Storage
+All reagents should be kept frozen until you are ready to use. Repeated freezing and thawing will kill Taq and primers. The other materials may be thawed and allowed to set out during preparation.
 
-### PROCEDURE
-To minimize pipette error and chances of contamination, you will first make a master mix solution depending on how many specimens you are running plus 2 (one for a negative control and one to account for pipetting error). This master mix solution is then put into each tube so that you are not putting in each reagent into each tube separately.
+### Procedure
+To minimize pipette error and chances of contamination, you will first make a master mix solution depending on how many samples you are running plus 2 (one for a negative control and one to account for pipetting error). This master mix solution is then put into each tube so that you are not putting in each reagent into each tube separately.
 
-### PCR for Sequencing
-1.	Thaw all reagents at room temperature. Vortex and spin briefly to collect the material at the bottom of the tubes. Keep them on ice.
-2.	Make one of the following PCR reaction mix solutions on ice:
+#### PCR for Sanger Sequencing
+1.	Thaw all reagents and keep them on ice. Briefly vortex and spin to collect the material at the bottom of the tubes.
+2.	Make one of the following PCR reaction mix solutions on ice.
 
+The followings are an example for 16 samples in 20-µL and 10-µL reaction volumes.
 For 20-µL reaction volume:
 |Reagents	|Amount| Final concentration| Number of samples | Total volume|
 |:--------|:-----|:-------------------|:------------------|:------------|
-|Taq Master Mix	|10 µL| 1X| | 200 µL|
+|GoTaq Master Mix	|10 µL| 1X| | 200 µL|
 |Forward primer (10 µM)	|1 µL| 0.1 – 1.0 µM| | 20 µL|
 |Reverse primer	(10 µM) |1 µL| 0.1 – 1.0 µM| x 20| 20 µL|
 |Molecular grade H2O	|6 µL| N.A.| |  120 µL|
