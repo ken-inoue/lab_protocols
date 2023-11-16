@@ -23,9 +23,9 @@ This is a general DNA/RNA lab manual from how to make reagents to DNA sequencing
 - [Routine Genetic Markers for DNA Barcoding](Primers_for_Sanger_seq.md)
 
 ## PCR
-- PCR (general & Sanger sequencing)
+- [PCR (general & Sanger sequencing)](PCR.md)
 - PCR (genotype via fragment analysis)
-- PCR cleanup
+- PCR cleanup (EXOSAP)
 
 ## Sanger Sequencing 
 - Cycle sequencing reaction
