@@ -63,3 +63,4 @@ For example, you will make PCR mix solution for 10 samples if you have 8 samples
 PCR products can be checked by agarose gel electrophoresis.
 
 ### NOTES
+See [PCR cleanup (EXOSAP)](PCR_exosap.md) and [Cycle Sequencing](Cycle_sequencing.md) for next steps in Sanger sequencing process.
