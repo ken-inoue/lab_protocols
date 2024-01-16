@@ -1,7 +1,7 @@
 ## PCR
 
 ### Summary
-This is a procedure for polymerase chain reaction (PCR). This protocol was designed specifically for Sanger sequencing and microsatellite genotyping via fragment analysis. Each study will require fine tuning of this protocol as PCR protocols may not transfer well from one study to another. This protocol provides a starting point but may need modifications (see PCR optimization procedure and troubleshooting).
+This is a procedure for polymerase chain reaction (PCR). This protocol was designed specifically for Sanger sequencing. Each study will require fine tuning of this protocol as PCR protocols may not transfer well from one study to another. This protocol provides a starting point but may need modifications (see PCR optimization procedure and troubleshooting).
 
 ### Equipment & Supplies
 - Vortex
@@ -48,7 +48,6 @@ For 10-µL reaction volume:
 |DNA template (10 ng/µL) |1 µL| <250 ng|
 
 
-
 Make enough for # of samples plus 2 extra (1 for negative control, 1 for pipetting error). 
 For example, you will make PCR mix solution for 10 samples if you have 8 samples (plus 1 for negative control, 1 for pipetting error).
 
@@ -57,13 +56,6 @@ For example, you will make PCR mix solution for 10 samples if you have 8 samples
 4.	Remove any bubbles in the tubes by spinning in the fish-eye centrifuge. If this does not work, try popping bubbles with a small pipette tip.
 5.	Close tubes and place them into the thermal cycler and run program. (Program will vary with project and gene being amplified).
 
-### PCR for Genotyping
-1.	Set up a PCR as above, except one of microsatellite primers is labeled with fluorescent tag (e.g., 6-FAM, VIC, PET, NED). Since fluorescent tags are sensitive to light, DO NOT expose primers under light for long time. Keeping them on ice is highly recommended. 
-2.	Follow step 1 through 5 on PCR for Sequencing.
-3.	Thermal cycles may be differed in each primer set. Check appropriate thermal cycle for each primer set. 
-
-Basic thermal cycle:
-Initial denaturing at 95˚C for 2 min, followed by 35 cycles with denature at 95˚C for 30 s, annealing at 52-55˚C for 30 s, extension at 72˚C for 1 min, and final extension at 72˚C for 10 min.
 
 ### CLEAN UP
 
