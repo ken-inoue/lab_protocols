@@ -55,10 +55,10 @@ For 10-µL reaction volume*:
 5. Cover the plate and place it into the thermal cycler and run program. (Program will vary with project and gene being amplified).
   Basic thermal cycle: Initial denaturing at 95˚C for 2 min, followed by 35 cycles with denature at 95˚C for 30 s, annealing at 52-55˚C for 30 s, extension at 72˚C for 1 min, and final extension at 72˚C for 10 min.
 
-### CLEAN UP
+### Clean up
 
-### DATA ANALYSIS AND CALCULATIONS
+### Data Analysis and Calculations
 PCR products can be checked by agarose gel electrophoresis.
 
-### NOTES
+### Notes
 See "Fragment Analysis" procedure for further instructions on analysis of amplified products.
