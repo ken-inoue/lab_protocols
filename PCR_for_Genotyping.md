@@ -31,13 +31,13 @@ To minimize pipette error and chances of contamination, you will first make a ma
 The following is an example for 96 samples in 10-µL reaction volumes. These volumes are to be deposited into the first column of 12 wells on a 96-sample plate. 9µL of the master mix is then distributed across the remaining 11 columns of the plate using a multichannel pipette.
 
 For 10-µL reaction volume*:
-|Reagents	|Amount| Final concentration| Number of samples | Total volume|
-|:--------|:-----|:-------------------|:------------------|:------------|
-|GoTaq Master Mix	| 65 µL| 1X| 12 (+1 for error)| 200 µL|
+|Reagents	|Amount| Final concentration| Number of samples |
+|:--------|:-----|:-------------------|:------------------|
+|GoTaq Master Mix	| 65 µL| 1X| 12 (+1 for error)|
 |Tagged Primer | 3.25 µL|  | 12 (+1 for error)|  |
-|Forward primer (10 µM)	| 0.65 µL| 0.1 – 1.0 µM| 12 (+1 for error)| 20 µL|
-|Reverse primer	(10 µM) | 3.25 µL| 0.1 – 1.0 µM| 12 (+1 for error)| 12 (+1 for error)| 20 µL|
-|Molecular grade H2O	| 44.85 (45) µL| N.A.| 12 (+1 for error)|  120 µL|
+|Forward primer (10 µM)	| 0.65 µL| 0.1 – 1.0 µM| 12 (+1 for error)|
+|Reverse primer	(10 µM) | 3.25 µL| 0.1 – 1.0 µM| 12 (+1 for error)|
+|Molecular grade H2O	| 44.85 (45) µL| N.A.| 12 (+1 for error)|
 
 |Reagents	|Amount	|Final concentration in each well
 |:--------|:-----|:-------------------|
