@@ -36,17 +36,18 @@ For 10-µL reaction volume*:
 |GoTaq Master Mix	| 65 µL| 1X| 12 (+1 for error)| 200 µL|
 |Tagged Primer | 3.25 µL|  | 12 (+1 for error)|  |
 |Forward primer (10 µM)	| 0.65 µL| 0.1 – 1.0 µM| 12 (+1 for error)| 20 µL|
-|Reverse primer	(10 µM) | 3.25 µL| 0.1 – 1.0 µM| x 20| 12 (+1 for error)| 20 µL|
+|Reverse primer	(10 µM) | 3.25 µL| 0.1 – 1.0 µM| 12 (+1 for error)| 12 (+1 for error)| 20 µL|
 |Molecular grade H2O	| 44.85 (45) µL| N.A.| 12 (+1 for error)|  120 µL|
 
 |Reagents	|Amount	|Final concentration in each well
 |:--------|:-----|:-------------------|
-|Taq Master Mix	5 µL	1X
-|Tagged Primer 0.25 µL
-|Forward primer (10 µM)	0.05 µL	0.1 – 1.0 µM
-|Reverse primer (10 µM)	0.25 µL	0.1 – 1.0 µM
-|Molecular grade H2O	3.45 µL	N.A.
-|DNA template (10 ng/µL)	1 µL	<250 ng
+|Taq Master Mix | 5 µL|	1X
+|Tagged Primer | 0.25 µL|
+|Forward primer (10 µM) |	0.05 µL| 0.1 – 1.0 µM
+|Reverse primer (10 µM) |	0.25 µL|	0.1 – 1.0 µM
+|Molecular grade H2O | 3.45 µL|	N.A.
+|DNA template (10 ng/µL)	| 1 µL|	<250 ng
+
 *Make enough for # of samples plus 1 extra (for pipetting error). The above table will make PCR mix solution for 13 samples even though there are only 12 columns to account for pipetting error during master mix distribution using a multichannel pipette.
 
 3. Aliquot 1µL DNA into each well of the plate, placing the samples on the wall of each well. Run one sample without DNA, only master mix. Label this tube as X or NC for negative control. (If you get amplification in the negative control, something has been contaminated).
