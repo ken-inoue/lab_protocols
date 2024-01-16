@@ -19,7 +19,7 @@ Forward & reverse primers
 Tagged primer
 Molecular-grade H2O
 
-###S ample Preparation & Storage
+### Sample Preparation & Storage
 All reagents should be kept frozen until you are ready to use. Repeated freezing and thawing will kill Taq and primers. The other materials may be thawed and allowed to set out during preparation.
 
 ### Procedure
