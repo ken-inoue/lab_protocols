@@ -28,25 +28,25 @@ To minimize pipette error and chances of contamination, you will first make a ma
 #### PCR for Genotyping via Fragment Analysis
 1. Thaw all reagents and keep them on ice. Briefly vortex and spin to collect the material at the bottom of the tubes.
 2. Make the following PCR reaction mix solution on ice.
-The followings are an example for 96 samples in 10-µL reaction volumes. These volumes are to be deposited into the first column of wells on a 96-sample plate. 9µL of the master mix is then distributed across the remaining 11 columns of the plate using a multichannel pipette.
+The following is an example for 96 samples in 10-µL reaction volumes. These volumes are to be deposited into the first column of 12 wells on a 96-sample plate. 9µL of the master mix is then distributed across the remaining 11 columns of the plate using a multichannel pipette.
 
 For 10-µL reaction volume*:
 |Reagents	|Amount| Final concentration| Number of samples | Total volume|
 |:--------|:-----|:-------------------|:------------------|:------------|
-|GoTaq Master Mix	|65 µL| 1X| | 200 µL|
-|Tagged Primer |3.25 µL| 
-|Forward primer (10 µM)	|0.65 µL| 0.1 – 1.0 µM| | 20 µL|
-|Reverse primer	(10 µM) |3.25 µL| 0.1 – 1.0 µM| x 20| 20 µL|
-|Molecular grade H2O	|44.85 (45) µL| N.A.| |  120 µL|
+|GoTaq Master Mix	| 65 µL| 1X| 12 (+1 for error)| 200 µL|
+|Tagged Primer | 3.25 µL|  | 12 (+1 for error)|  |
+|Forward primer (10 µM)	| 0.65 µL| 0.1 – 1.0 µM| 12 (+1 for error)| 20 µL|
+|Reverse primer	(10 µM) | 3.25 µL| 0.1 – 1.0 µM| x 20| 12 (+1 for error)| 20 µL|
+|Molecular grade H2O	| 44.85 (45) µL| N.A.| 12 (+1 for error)|  120 µL|
 
-Reagents	Amount	Final concentration in each well
+|Reagents	|Amount	|Final concentration in each well
 |:--------|:-----|:-------------------|
-Taq Master Mix	5 µL	1X
-Tagged Primer 0.25 µL
-Forward primer (10 µM)	0.05 µL	0.1 – 1.0 µM
-Reverse primer (10 µM)	0.25 µL	0.1 – 1.0 µM
-Molecular grade H2O	3.45 µL	N.A.
-DNA template (10 ng/µL)	1 µL	<250 ng
+|Taq Master Mix	5 µL	1X
+|Tagged Primer 0.25 µL
+|Forward primer (10 µM)	0.05 µL	0.1 – 1.0 µM
+|Reverse primer (10 µM)	0.25 µL	0.1 – 1.0 µM
+|Molecular grade H2O	3.45 µL	N.A.
+|DNA template (10 ng/µL)	1 µL	<250 ng
 *Make enough for # of samples plus 1 extra (for pipetting error). The above table will make PCR mix solution for 13 samples even though there are only 12 columns to account for pipetting error during master mix distribution using a multichannel pipette.
 
 3. Aliquot 1µL DNA into each well of the plate, placing the samples on the wall of each well. Run one sample without DNA, only master mix. Label this tube as X or NC for negative control. (If you get amplification in the negative control, something has been contaminated).
