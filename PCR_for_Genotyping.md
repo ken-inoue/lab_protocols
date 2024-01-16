@@ -40,6 +40,7 @@ For 10-µL reaction volume*:
 |Molecular grade H2O	|44.85 (45) µL| N.A.| |  120 µL|
 
 Reagents	Amount	Final concentration in each well
+|:--------|:-----|:-------------------|
 Taq Master Mix	5 µL	1X
 Tagged Primer 0.25 µL
 Forward primer (10 µM)	0.05 µL	0.1 – 1.0 µM
