@@ -4,20 +4,20 @@
 This is a procedure for polymerase chain reaction (PCR). This protocol was designed specifically for microsatellite genotyping via fragment analysis. Each study will require fine tuning of this protocol as PCR protocols may not transfer well from one study to another. This protocol provides a starting point but may need modifications (see PCR optimization procedure and troubleshooting).
 
 ### Equipment & Supplies
-Vortex
-Pipettes
-Pipette tips
-Microcentrifuge tubes
-PCR tubes
-Table-top spinner
-Thermal cycler
+-Vortex
+-Pipettes
+-Pipette tips
+-Microcentrifuge tubes
+-PCR tubes
+-Table-top centrifuge
+-Thermal cycler
 
 ### Reagents & Standards
-Template DNA (~10 ng/µL)
-Taq Master Mix (GoTaq Master Mix, Promega)
-Forward & reverse primers
-Tagged primer
-Molecular-grade H2O
+-Template DNA (~10 ng/µL)
+-Taq Master Mix (GoTaq Master Mix, Promega)
+-Forward & reverse primers
+-Tagged primer
+-Molecular-grade H2O
 
 ### Sample Preparation & Storage
 All reagents should be kept frozen until you are ready to use. Repeated freezing and thawing will kill Taq and primers. The other materials may be thawed and allowed to set out during preparation.
