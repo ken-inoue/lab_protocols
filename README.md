@@ -29,7 +29,7 @@ This is a general DNA/RNA lab manual from how to make reagents to DNA sequencing
 
 ## Sanger Sequencing 
 - Cycle sequencing reaction
-- Sanger sequencing
+- [Sanger sequencing](Sanger_Sequencing.md)
 
 ## GeneMapper
 - Fragment analysis
