@@ -17,7 +17,7 @@ This is a general DNA/RNA lab manual from how to make reagents to DNA sequencing
 
 ## Quantification & Qualification of DNA 
 - [Electrophoresis](gel_electrophoresis.md)
-- Qubit
+- [Qubit}(Qubit.md)
 
 ## Primers
 - [Routine Genetic Markers for DNA Barcoding](Primers_for_Sanger_seq.md)
