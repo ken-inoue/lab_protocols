@@ -65,7 +65,7 @@ See “Procedure” section.
 Place chloroform wastes into the liquid waste in fume hood. 
 
 ### Data Analysis and Calculation
-See protocol for [agarose gel electrophoresis](gel_electrophoresis.md) and Qubit.
+See protocol for [agarose gel electrophoresis](gel_electrophoresis.md) and [Qubit](Qubit.md).
 
 ### NOTES
 Prepare 2x CTAB in fume hood. Do not inhale chloroform.
