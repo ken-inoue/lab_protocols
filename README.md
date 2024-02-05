@@ -28,7 +28,7 @@ This is a general DNA/RNA lab manual from how to make reagents to DNA sequencing
 - [PCR cleanup (EXOSAP)](PCR_exosap.md)
 
 ## Sanger Sequencing 
-- Cycle sequencing reaction
+- [Cycle sequencing](Cycle_sequencing.md)
 - [Sanger sequencing](Sanger_Sequencing.md)
 
 ## GeneMapper
