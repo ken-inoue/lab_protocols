@@ -33,11 +33,11 @@ The following is an example for 96 samples in 10-µL reaction volumes. These vol
 For 10-µL reaction volume*:
 |Reagents	|Amount| Final concentration| Number of samples |
 |:--------|:-----|:-------------------|:------------------|
-|GoTaq Master Mix	| 65 µL| 1X| 12 (+1 for error)|
-|Tagged Primer | 3.25 µL|  | 12 (+1 for error)|  |
-|Forward primer (10 µM)	| 0.65 µL| 0.1 – 1.0 µM| 12 (+1 for error)|
-|Reverse primer	(10 µM) | 3.25 µL| 0.1 – 1.0 µM| 12 (+1 for error)|
-|Molecular grade H2O	| 44.85 (45) µL| N.A.| 12 (+1 for error)|
+|GoTaq Master Mix	| 65 µL| 1X| 13 (+1 for error)|
+|Tagged Primer | 3.25 µL|  | 13 (+1 for error)|  |
+|Forward primer (10 µM)	| 0.65 µL| 0.1 – 1.0 µM| 13 (+1 for error)|
+|Reverse primer	(10 µM) | 3.25 µL| 0.1 – 1.0 µM| 13 (+1 for error)|
+|Molecular grade H2O	| 44.85 (45) µL| N.A.| 13 (+1 for error)|
 
 |Reagents	|Amount	|Final concentration in each well
 |:--------|:-----|:-------------------|
