@@ -13,9 +13,9 @@ This is a procedure for polymerase chain reaction (PCR). This protocol was desig
 
 ### Reagents & Standards
 - PCR products from [PCR (general and Sanger sequencing)](PCR.md)
-- Exonuclease I
-- Shrimp Alkaline Phosphatase (SAP)
-- Buffer (****names)
+- Exonuclease I (Exo I)
+- Shrimp Alkaline Phosphatase (rSAP)
+- Buffer (Exonuclease I reaction buffer or rCutSmart buffer)
 
 ### Sample Preparation & Storage
 All reagents should be kept frozen until you are ready to use. Products from the Sanger sequencing PCR reaction may be allowed to thaw and sit out during preparation.
@@ -30,19 +30,19 @@ To minimize pipette error and chances of contamination, you will first make a ma
 The following is an example of a reagent master mix for 96 samples*. These volumes are deposited into each well of a 96-sample plate containing PCR products from the Sanger sequencing PCR reaction.
 |Reagents	|Amount| Final concentration|
 |:--------|:-----|:-------------------|
-|Exonuclease I | 25 µL | | 
-|SAP           | 50 µL | |
-|Buffer        | 100 µL | |
+|Exo I | 25 µL | | 
+|rSAP | 50 µL | |
+|Buffer | 100 µL | |
 
 _*Total volume adds +4 reaction volume to account for pipetting error_
 
 The following table displays the final volume of all reagents in each well of the 96-sample plate
 |Reagents	|Amount	|Final concentration in each well
 |:--------|:-----|:-------------------|
-|Exonuclease I | 0.25 µL |	|
-|SAP | 0.5 µL | |
-|Buffer | 1.0 µL | |
-|PCR product | 10.0 µL | |
+|Exo I | 0.25 µL |	|
+|rSAP | 0.5 µL | |
+|Buffer | 1 µL | |
+|PCR product | 10 µL | |
 
 3. Aliquot 1.75 µL of the master mix into each well of the plate containing PCR product, placing the mix on the wall of each well. 
 4. Mix the reagents well by spinning in plate centrifuge.
