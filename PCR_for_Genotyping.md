@@ -1,4 +1,4 @@
-## PCR
+## PCR (genotyping via fragment analysis)
 
 ### Summary
 This is a procedure for polymerase chain reaction (PCR). This protocol was designed specifically for microsatellite genotyping via fragment analysis. Each study will require fine tuning of this protocol as PCR protocols may not transfer well from one study to another. This protocol provides a starting point but may need modifications (see PCR optimization procedure and troubleshooting).
