@@ -61,4 +61,5 @@ For 10-µL reaction volume*:
 PCR products can be checked by agarose gel electrophoresis.
 
 ### Notes
-See [Fragment Analysis](Frag_analysis.md) procedure for next steps for processing of PCR products
+- Samples can be frozen after this step
+- See [Fragment Analysis](Frag_analysis.md) procedure for next steps for processing of PCR products
