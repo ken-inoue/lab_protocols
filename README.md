@@ -25,7 +25,7 @@ This is a general DNA/RNA lab manual from how to make reagents to DNA sequencing
 ## PCR
 - [PCR (general & Sanger sequencing)](PCR.md)
 - [PCR (genotype via fragment analysis)](PCR_for_Genotyping.md)
-- PCR cleanup (EXOSAP)
+- [PCR cleanup (EXOSAP)](PCR_exosap.md)
 
 ## Sanger Sequencing 
 - Cycle sequencing reaction
