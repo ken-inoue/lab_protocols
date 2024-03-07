@@ -1,7 +1,7 @@
 ## Qubit
 
 ### Summary
-switch to broad range sensitivity if not using hs reagents
+This is a procedure for a Qubit High Sensitivity Assay using the ThermoFisher Qubit dsDNA HS Assay Kit. Qubit is used to measure DNA quantification in samples of interest. This procedure can also be used for broad range assays, however, the reagents and calibration steps are tailored to broad range assays.
 ### Equipment and Supplies
 - 0.5 mL Eppendorf tubes
 - Vortex
