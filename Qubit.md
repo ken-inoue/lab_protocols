@@ -16,7 +16,7 @@ switch to broad range sensitivity if not using hs reagents
 ### Sample Preparation and Storage
 The Qubit dsDNA HS Reagent and Buffer are designed for room temperature storage. Store the DNA standards at 4°C.
 ### Procedure 
-1. Prepare the 
+1. Prepare the Qubit working dilution. Add the below volumes of Qubit dsDNA HS Reagent and Buffer into a clean tube and vortex. *Note: 180-199 µL of Qubit working dilution will be added to each sample tube with sample DNA. Be sure to make enough working dilution for all samples being assayed. Do not label the sides of sample tubes, as it could interfere with the sample read.*
    
 |Reagents|Amount for a 1:200 dilution|Concentration|
 |:--------|:-----|:-------------------|
