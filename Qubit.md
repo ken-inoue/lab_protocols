@@ -3,11 +3,18 @@
 ### Summary
 switch to broad range sensitivity if not using hs reagents
 ### Equipment and Supplies
-
+- 0.5 mL Eppendorf tubes
+- Vortex
+- Pipettes
+- Pipette tips
 ### Reagents and Standards
-
+- sample DNA for quantification
+- Qubit dsDNA HS reagent
+- Qubit dsDNA HS Buffer
+- Qubit dsDNA HS Standard #1
+- Qubit dsDNA HS Standard #2
 ### Sample Preparation and Storage
-
+The Qubit dsDNA HS Reagent and Buffer are designed for room temperature storage. Store the DNA standards at 4°C.
 ### Procedure 
 
 #### Calibration of the Qubit Fluorometer
