@@ -22,13 +22,13 @@ The Qubit dsDNA HS Reagent and Buffer are designed for room temperature storage.
 |:--------|:-----|:-------------------|
 |Qubit dsDNA HS Reagent|1 µL|200X in DSMO|
 |Qubit dsDNA HS Buffer|199 µL|NA|
-2. Prepare the Qubit calibration standards in two clean, labeled 0.5 mL tubes. Add 200 uL of dsDNA HS Standard #s 1 and 2 to their respective tubes and vortex. *Note: Do not label the sides of the tubes. This could interfere with the sample read.*
+2. Prepare the Qubit calibration standards in two clean, labeled 0.5 mL tubes. Add the below reagents to their respective tubes and vortex briefly, careful to avoid bubble formation. *Note: Do not label the sides of the tubes. This could interfere with the sample read.*
 
 |Reagents|Amount|Concentration|
 |:--------|:-----|:-------------------|
-|Qubit dsDNA HS Standard #1|200 µL|0 ng/µL in TE Buffer|
-|Qubit dsDNA HS Standard #2|200 µL|10 ng/µL in TE Buffer|
-
+|Qubit dsDNA HS Standard #1|10 µL|0 ng/µL in TE Buffer|
+|Qubit dsDNA HS Standard #2|10 µL|10 ng/µL in TE Buffer|
+|Qubit dsDNA HS working dilution|190 µL|NA|
 3. Add the Qubit working solution and sample DNA to clean 0.5 mL Eppendorf tubes. The volume in each working tube must add up to 200 µL. *Note: DNA volume can be between 1-20 µL. Qubit working solution should be added to the chosen volume of DNA to add up to 200 µL. For example, if using 5 µL of DNA in a working tube, add 195 µL of Qubit working solution.*
 #### Calibration of the Qubit Fluorometer
 5. On the home screen of the Qubit Fluorometer, press **DNA**, then select **dsDNA High Sensitivity** as the assay type. The "Read Standards" screen is displayed. Press **Read Standards** to proceed. *Note: If using a previous calibration of Qubit, press **Run samples** on the "Read Standards" screen. Skip Steps 5-7 and proceed with Step 8.*
