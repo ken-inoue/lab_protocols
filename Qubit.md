@@ -19,8 +19,13 @@ switch to broad range sensitivity if not using hs reagents
 
 The instrument displays the results on the "Read standards" screen. For information on how to interpret calibration results, refer to the [Qubit 3.0 Fluorometer User Guide](https://tools.thermofisher.com/content/sfs/manuals/qubit_3_fluorometer_man.pdf).
 #### Qubit High Sensitivity Assay for DNA Quantitation
+8. Press **Run Samples**.
+9. On the assay screen, select the sample volume and units:
+    - Press the + or - buttons on the wheel to select the sample volume added to the assay tube (from 1-20 µL).
+    - From the dropdown menu, select the units for the output sample concentration (standard choice is ng/µL).
+10. 
 ### Clean up
-
+Working and standard tubes can be disgarded after being read through the Qubit Fluorometer.
 ### Data analysis and calculations
-
+For information on how to interpret calibration results, refer to the [Qubit 3.0 Fluorometer User Guide](https://tools.thermofisher.com/content/sfs/manuals/qubit_3_fluorometer_man.pdf). 
 ### Notes
