@@ -56,11 +56,10 @@ For example, you will make PCR mix solution for 10 samples if you have 8 samples
 4.	Remove any bubbles in the tubes by spinning in the fish-eye centrifuge. If this does not work, try popping bubbles with a small pipette tip.
 5.	Close tubes and place them into the thermal cycler and run program. (Program will vary with project and gene being amplified).
 
+### Clean up
 
-### CLEAN UP
-
-### DATA ANALYSIS AND CALCULATIONS
+### Data analysis and calculations
 PCR products can be checked by agarose gel electrophoresis.
 
-### NOTES
+### Notes
 See [PCR cleanup (EXOSAP)](PCR_exosap.md) and [Cycle Sequencing](Cycle_sequencing.md) for next steps in Sanger sequencing process.
