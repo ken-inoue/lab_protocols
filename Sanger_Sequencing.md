@@ -3,12 +3,24 @@
 ### Summary
 These are two suggested alcohol precipitation methods for Sanger sequencing. The first uses **EDTA** while the other uses **EDTA and sodium acetate**. The one that uses EDTA minimizes unincorporated dyes but may cause loss of smallest fragments. The EDTA/NaOAc method will improve recovery of smallest peaks but will also increase the amount of residual unincorporated dyes.
 
+### Reagents and Standards
+- 125 mM EDTA
+- Molucular-grade H20
+- 100% EtOH
+
 ### Method 1: EtOH/EDTA Precipitation in 96-well trays
 1. Make a master mix of EtOH/EDTA solution. If your final sequencing volume was 10 µL, then for each sample, add:
 - 2.5 µL 125 mM EDTA
 - 30 µL 100% EtOH
+
+|Reagents	|Amount (µL)|
+|:--------|:-----|
+|125 mM EDTA|350 µL|
+|100% EtOH|4200 µL|
   
-  *If your sequencing volume was 20 µL, double the volumes above
+  *If your sequencing volume was 20 µL or you are prepping two plates, double the above reagent volumes
+
+  
 2. Add 32.5 µL of EtOH/EDTA solution to 10µL of [cycle sequencing](Cycle_sequencing.md) product
 3. Seal wells and briefly vortex
 4. Leave at room temperature up to 15 minutes to precipitate extension products
@@ -23,11 +35,18 @@ These are two suggested alcohol precipitation methods for Sanger sequencing. The
 *ABI recommends making a fresh stock of 70% ethanol each time you do this. For each sample, add*
 - 21 µL non-denatured 100% ethanol
 - 9 µL molecular grade water
+
+|Reagents	|Amount (µL)|
+|:--------|:-----|
+|Molecular-grade H2O|2940 µL|
+|100% EtOH|1260 µL|
+
+
 11. Seal wells and briefly vortex
 12. Spin plates 2000-3000 g for 15 minutes at 4˚C (program #3 on Eppendorf refridgerated centrifuges)
 13. Repeat steps 6 and 7 to remove 70% EtOH
   
-*Optional: Place tubes in 65˚C oven for 10 minutes to ensure EtOH evaporates completely **OR** speed vac for 15 minutes **OR** let tubes sit at room temperature for 15 minutes (our preference)*
+*Optional: Place tubes in 65˚C oven for 10 minutes (our preference) to ensure EtOH evaporates completely **OR** speed vac for 15 minutes **OR** let tubes sit at room temperature for 15 minutes*
 
 14. Samples are ready to be resuspended for 3730 run. They can also be covered in aluminum foil and stored at -20˚C
 15. To run on 3730, add 10 µL Hi-Di formamide to each tube
