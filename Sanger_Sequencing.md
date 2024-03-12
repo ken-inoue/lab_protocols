@@ -5,7 +5,7 @@ These are two suggested alcohol precipitation methods for Sanger sequencing. The
 
 ### Reagents and Standards
 - 125 mM EDTA
-- Molucular-grade H20
+- Molucular-grade H2O
 - 100% EtOH
 
 ### Method 1: EtOH/EDTA Precipitation in 96-well trays
