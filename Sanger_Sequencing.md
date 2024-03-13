@@ -29,7 +29,7 @@ These are two suggested alcohol precipitation methods for Sanger sequencing. The
 **IMPORTANT** Proceed to the next step immediately. If this is not possible, spin the tubes for 2 minutes before the next step.
 
 6. Remove seal and invert tray onto paper towel. Secure 2-3 paper towels over tubes with rubber bands
-7. Place tray **inverted** into centrifuge and spin 50 g (up to 185 g) for 3 minutes (program #2 on Eppendorf refridgerated centrifuges)
+7. Place tray **inverted** into centrifuge and spin 50 g (up to 185 g) for 3 minutes (program #2 on Eppendorf refrigerated centrifuges)
 8. Add 30 µL 70% EtOH to each pellet
     
 *ABI recommends making a fresh stock of 70% ethanol each time you do this. For each sample, add*
@@ -43,7 +43,7 @@ These are two suggested alcohol precipitation methods for Sanger sequencing. The
 
 
 9. Seal wells and briefly vortex *(we skip this step)*
-10. Spin plates 2000-3000 g for 15 minutes at 4˚C (program #3 on Eppendorf refridgerated centrifuges)
+10. Spin plates 2000-3000 g for 15 minutes at 4˚C (program #3 on Eppendorf refrigerated centrifuges)
 11. Repeat steps 6 and 7 to remove 70% EtOH
   
 *Optional: Place tubes in 65˚C oven for 10 minutes (our preference) to ensure EtOH evaporates completely **OR** speed vac for 15 minutes **OR** let tubes sit at room temperature for 15 minutes*
