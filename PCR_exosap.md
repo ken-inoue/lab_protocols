@@ -3,7 +3,7 @@
 ### Summary
 This is a procedure for polymerase chain reaction (PCR). This protocol was designed specifically for the ExoSAP step of sample prep for Sanger sequencing, and removes excess primers and unincorporated nucleotides from the Sanger sequencing PCR reaction. Each study will require fine tuning of this protocol as PCR protocols may not transfer well from one study to another. This protocol provides a starting point but may need modifications (see PCR optimization procedure and troubleshooting).
 
-### Equipment & Supplies
+### Equipment and Supplies
 - Vortex
 - Pipettes
 - Pipette tips
@@ -11,13 +11,13 @@ This is a procedure for polymerase chain reaction (PCR). This protocol was desig
 - Table-top centrifuge
 - Thermal cycler
 
-### Reagents & Standards
+### Reagents and Standards
 - PCR products from [PCR (general and Sanger sequencing)](PCR.md)
 - Exonuclease I (Exo I)
 - Shrimp Alkaline Phosphatase (rSAP)
 - Buffer (Exonuclease I reaction buffer or rCutSmart buffer)
 
-### Sample Preparation & Storage
+### Sample Preparation and Storage
 All reagents should be kept frozen until you are ready to use. Products from the Sanger sequencing PCR reaction may be allowed to thaw and sit out during preparation.
 
 ### Procedure
