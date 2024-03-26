@@ -31,7 +31,7 @@ This is a general DNA/RNA lab manual from how to make reagents to DNA sequencing
 ## Sequencing 
 - [Cycle sequencing](Cycle_sequencing.md)
 - [Sanger sequencing](Sanger_Sequencing.md)
-- [Nanopore PCR Pooling](Nanopore Pooling.md)
+- [Nanopore PCR Pooling](Nanopore_Product_Pooling.md)
 - [Nanopore Library Prep and Loading](Nanopore.md)
 
 ## GeneMapper
