@@ -26,7 +26,7 @@ This is a general DNA/RNA lab manual from how to make reagents to DNA sequencing
 - [PCR (general & Sanger sequencing)](PCR.md)
 - [PCR (genotyping via fragment analysis)](PCR_for_Genotyping.md)
 - [PCR cleanup (ExoSAP)](PCR_exosap.md)
-- [PCR (Nanopore)](Nanopore PCR.md)
+- [PCR (Nanopore)](Nanopore_PCR.md)
 - [PCR Product Pooling and Cleanup (Nanopore)](Nanopore_Product_Pooling.md)
 
 ## Sequencing 
