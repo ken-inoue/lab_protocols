@@ -30,7 +30,7 @@ This is a general DNA/RNA lab manual from how to make reagents to DNA sequencing
 
 ## Cleanup
 - [PCR cleanup (ExoSAP)](PCR_exosap.md)
-- [PCR Product Pooling and Cleanup (Nanopore)](Nanopore_Product_Pooling.md)
+- [PCR product pooling and cleanup (Nanopore)](Nanopore_Product_Pooling.md)
 
 ## Sequencing 
 - [Cycle sequencing](Cycle_sequencing.md)
