@@ -95,7 +95,41 @@ Move immediately to the adapter ligation step. If this is not possible, the samp
 - NEBNext Quick Ligation Module
 
 ### Procedure
-#### Adapter ligation and cleanup
+*The Ligation Adapter (LA) included in this kit and protocol is not interchangeable with other sequencing adapters. Although the NEBNext Quick Ligation Module includes its own ligation buffer, the efficiency of the LA is higher when using the Ligation Buffer (LIB) supplied in the sequencing kit.*
+
+1. Spin down the LA and Quick T4 Ligase. Place on ice.
+2. Thaw LIB at room temperature, spin down and mix by pipetting. Place on ice.
+3. Thaw EB at room temperature, mix by vortexing and spin down. Place on ice.
+
+*Short Fragment Buffer (SFB) retains DNA of all fragment sizes. Long Fragment Buffer (LFB) enriches for DNA fragments of 3kb or longer.*
+
+5. Thaw either the SFB or LFB at room temperature, mix by vortexing and spin down. Place on ice.
+6. In a 1.5 mL Eppendorf tube, mix the following
+
+|Reagent	|Volume|
+|:--------|:-----|
+|DNA from previous step|30 µL|
+|LNB|12.5 µL|
+|NEBNext T4 DNA Ligase|5 µL|
+|LA|2.5 µL|
+|**Total**|**50 µL**|
+
+7. Thoroughly mix the reaction by gently pipetting up and down.
+8. Incubate the reaction at room temperature for 10 minutes.
+9. Resuspend SPRI beads by vortexing.
+10. Add 20 µL of resuspended SPRI beads to the reaction and mix by flicking the tube.
+11. Incubate at room temperature on a gentle rotator mixer for 5 minutes.
+12. Spin down sample and pellet on a magnetic rack until the supernatant is clear and colorless (~3-5 minutes).
+12. Keep tube on magnetic rack, pipette off the supernatant, and disgard the supernatant.
+13. Take the tube off rack and wash the beads by adding 125 µL of either SFB or LFB. Flick the tube to resuspend the beads, spin down, and return beads to the magnetic rack to pellet the beads. When the supernatant is clear and colorless (~3-5 minutes), pipette off the supernatant and disgard.
+14. Repeat step 13.
+15. Remove the tube from rack, spin down, and place tube back on magnet. Pipette off any residual supernatant and allow pellet to dry for 30 seconds. **Do NOT overdry the pellet**.
+16. Remove the tube from rack and resuspend the pellet in 7.5 µL of EB. Resuspend the pellet by flicking and incubate at room temperature for 10 minutes.
+17. Pellet the beads on magnetic rack until eluate is clear and colorless (~1-2 minutes).
+18. Pipette off the 7.5 µL eluate and transfer to a clean 1.5 mL Eppendorf tube. The pellet may be disgarded.
+19. Quantify 1 µL of eluate using a Qubit fluorometer.
+20. Prepare 20fmol of your final library adjusted to 12 µL with EB.
+      - Use [NEBioCalculator](https://nebiocalculator.neb.com/#!/dsdnaamt) to convert ng/µL into fmol to calculate the volume (in µL) of eluate needed for the final library. Under the "Mass to Moles" tab, input the DNA length (bp) and DNA mass (ng) calculated using the Qubit fluorometer. Look at the "Moles of DNA" field on the right hand side of the screen to see the conversion to fmol per ng of DNA.
 
 ## Priming and loading the Flongle Flow Cell
 ### Equipment and Supplies
