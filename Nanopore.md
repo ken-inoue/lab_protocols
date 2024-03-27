@@ -4,7 +4,7 @@
 This is a three-step procedure for library prep and sequencing. This procedure is adapted from the [ligation sequencing Kit V14](https://github.com/ken-inoue/lab_protocols/files/14776449/Ligation_Sequencing.pdf), [Srivathsan et. al (2021)](https://doi.org/10.1186/s12915-021-01141-x), and [ligation sequencing DNA V14 (SQK-LSK114)](https://github.com/ken-inoue/lab_protocols/files/14776483/genomic-dna-by-ligation-sqk-lsk114-GDE_9161_v114_revU_29Jun2022-minion.pdf) protocols. This procedure is volume adjusted for Flongle Flow Cells but may need modification for use with MinION Flow Cells or other Nanopore sequencing devices.
 
 Step 1: [End Prep](https://github.com/ken-inoue/lab_protocols/blob/main/Nanopore.md#end-prep)
-Step 2: [Adapter Ligation and Cleanup]
+Step 2: [Adapter Ligation and Cleanup](https://github.com/ken-inoue/lab_protocols/blob/main/Nanopore.md#adapter-ligation-and-cleanup)
 Step 3: [Priming and Loading the Flongle Flow Cell]
 
 ## End Prep
