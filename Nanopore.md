@@ -60,7 +60,24 @@ This is a procedure for library prep and sequencing. This procedure is adapted f
 - Sequencing Buffer (SB)
 
 ### Procedure
+#### Mix DNA solution
+*This protocol calls for 100 ng of DNA adjusted to 22.5 µL in molecular-grade H2O.*
+1. steps here
 #### End-prep
+1. Thaw DNA Control Sample (DCS) at room temperature, spin down, mix by pipetting, and place on ice.
+2. Thaw NEBNext Ultra II End Repair/dA-tailing Module reagents on ice.
+    - **Do NOT vortex the Ultra II End Prep Enzyme Mix**. Flick or invert the tube to ensure it is well mixed.
+    - The Ultra II End Prep Buffer may have precipitate. Pipette the buffer up and down to break up the precipitate and then vortex for 30 seconds.
+3. In a 0.2 μL PCR tube, mix the following
+
+|Reagent	|Volume|
+|:--------|:-----|
+|DCS|0.5 µL|
+|DNA|22.5 µL|
+|Ultra II End Prep Reaction Buffer|3.5 µL|
+|Ultra II End Prep Enzyme Mix|1.5 µL|
+|Molecular-grade H2O|2 µL|
+|**Total**|**30 µL**|
 
 #### Adapter ligation and cleanup
 
