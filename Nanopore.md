@@ -11,12 +11,27 @@ This is a procedure for library prep and sequencing. This procedure is adapted f
 - Magnetic rack
 - Pipettes
 - Pipette tips
+- 1.5 mL Eppendorf tubes
+- Qubit assay tubes
 - Ice
 - Qubit fluorometer
 #### For adapter ligation and cleanup
-- here
+- Vortex
+- Table-top centrifuge
+- Gentle rotator mixer
+- Magnetic rack
+- Pipettes
+- Pipette tips
+- 1.5 mL Eppendorf tubes
+- Qubit assay tubes
+- Ice
+- Qubit fluorometer
 #### For priming and loading the Flow Cell
-- here
+- Flongle Flow Cell
+- MinION device with Flongle adapter
+- Pipettes
+- Pipette tips
+- 1.5 mL Eppendorf tubes
 
 ### Reagents and standards
 #### For end-prep
@@ -28,9 +43,21 @@ This is a procedure for library prep and sequencing. This procedure is adapted f
 - NEBNext Ultra II End Repair/dA-tailing Module
 - Qubit dsDNA HS Assay Kit
 #### For adapter ligation and cleanup
-- here
+- Eluate from end-prep step
+- Ligation Adapter (LA)
+- Ligation Buffer (LNB) *from the ligation sequencing kit*
+- Long Fragment Buffer (LFB)
+- Short Fragment Buffer (SFB)
+- SPRI beads
+- Elution Buffer (EB) *from the Oxford Nanopore sequencing kit*
+- NEBNext Quick Ligation Module
 #### For priming and loading the Flow Cell
-- here
+- Eluate from adapter ligation and cleanup step
+- Molecular-grade H2O
+- Flow Cell Flush (FCF)
+- Flow Cell Tether (FCT)
+- Library Beads (LIB)
+- Sequencing Buffer (SB)
 
 ### Procedure
 #### End-prep
