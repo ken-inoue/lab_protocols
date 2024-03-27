@@ -97,8 +97,9 @@ Step 3: [Priming and Loading the Flongle Flow Cell](https://github.com/ken-inoue
 ### Procedure
 #### Priming and loading the Flongle Flow Cell
 
-### Data Acquisition and Basecalling
+#### Data Acquisition and Basecalling
 
+***
 ### Data analysis and cleanup
 
 ### Cleanup
