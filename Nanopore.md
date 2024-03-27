@@ -149,9 +149,42 @@ Move immediately to the adapter ligation step. If this is not possible, the samp
 
 ### Procedure
 #### Priming and loading the Flongle Flow Cell
+*Recommended: Watch [Priming and loading a Flongle Flow Cell](https://community.nanoporetech.com/nanopore_learning/lessons/priming-and-loading-a-flongle-flow-cell) before starting this step.*
 
+1. Thaw the SB, LIB, FCT, and FCF at room temperature, mix by vortexing, and spin down. Place on ice.
+2. In a clean 1.5 mL Eppendorf tube, add the following and mix by pipetting. Place on ice
+
+|Reagent	|Volume|
+|:--------|:-----|
+|FCF|117 µL|
+|FCT|3 µL|
+|**Total**|**120 µL**|
+
+*The LIB tube contains suspension beads that settle quickly, so it is necessary to vortex LIB immediately before preparing the Seqencing Mix.*
+
+3. In a clean 1.5 mL Eppendorf tube, add the following and mix by pipetting. Place on ice.
+
+|Reagent	|Volume|
+|:--------|:-----|
+|SB|15 µL|
+|LIB|10 µL|
+|DNA library|5 µL|
+|**Total**|**30 µL**|
+
+4. Place the Flongle adapter on the MinION Mk1B platform. The adapter should sit evenly or flat on the MinION platform.
+5. Ensure that your device is powered on and plugged in and that the Flongle adapter is plugged into your device before proceeding.
+6. Place the Flongle Flow Cell into the Flongle adapter and press down until you hear a click. The flow cell should sit evenly and flat inside the adapter to prevent any bubbles forming within the flow cell's fluidic compartments.
+7. 
+*If performing a health check, it must be completed before priming your flow cell. After inserting the flow cell into the Flongle adapter, use the MinION software to 
+8. Peel back the seal tab on the flow cell to expose the sample port and secure the sticky tab on the MinION lid to keep it out of the way during priming and loading.
+9. Prime the flow cell with your mix of FCF and FCT (120 µL) by placing a P200 pipette tip directly up against the port, ensuring that there is no air gap between the pipette tip and the port opening. Slowly dispense the 120 µL of solution into the port by pipetting down until the first stop. **Pipette slowly to avoid flushing the cell too vigorously. Do NOT push the pipette plunger down past the first stop, or air may be introduced to the flow cell.**
+10. Lightly flick the tube of Sequencing Mix to resuspend any LIB beads that have settled. Tap the tube on a flat surface to remove any solution from the lid or walls of the tube.
+11. Add the sequencing mix (30 µL) to the flow cell by placing a P200 pipette tip directly up against the port, ensuring that there is no air gap between the pipette tip and the port opening. Slowly dispense the 30 µL of solution into the port by pipetting down until the first stop.  **Pipette slowly to avoid damaging the flow cell. Do NOT push the pipette plunger down past the first stop, or air may be introduced to the flow cell.**
+12. Seal the Flongle Flow Cell using the adhesive tab. Stick the transparent adhesive tape to the sample port, and replace the top (wheel icon) portion of the adhesive to its original position by folding the adhesive over itself.
+13. Close the device and set up a run using the MinKNOW software.
 #### Data Acquisition and Basecalling
-
+1. To start a sequencing run using MinKNOW, navigate to the start page and click "Start Sequencing".
+2. Fill in your experimental details, such as name, flow cell position, and sample ID
 ***
 ### Data analysis and cleanup
 
