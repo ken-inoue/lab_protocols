@@ -24,7 +24,6 @@ Step 3: [Priming and Loading the Flongle Flow Cell](https://github.com/ken-inoue
 
 ### Reagents and standards
 - 100 ng DNA 
-- DNA Control Sample (DCS)
 - SPRI beads
 - Molecular-grade H2O
 - 100% EtOH
@@ -47,11 +46,10 @@ Step 3: [Priming and Loading the Flongle Flow Cell](https://github.com/ken-inoue
 
 |Reagent	|Volume|
 |:--------|:-----|
-|DCS|0.5 µL|
 |DNA|22.5 µL|
 |Ultra II End Prep Reaction Buffer|3.5 µL|
 |Ultra II End Prep Enzyme Mix|1.5 µL|
-|Molecular-grade H2O|2 µL|
+|Molecular-grade H2O|2.5 µL|
 |**Total**|**30 µL**|
 
 4. Thoroughly mix the reaction by gently pipetting up and down.
