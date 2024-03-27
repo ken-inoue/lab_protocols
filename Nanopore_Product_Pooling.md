@@ -50,4 +50,4 @@ Remaining pooled products from Step 2 may be frozen for future use or disgarded.
 Remaining supernatant from Step 8 not used in gel test may be disgarded.
 
 ### Notes
-Move on to [Nanopore Library Prep and Loading](Nanopore.md).
+Move on to [Nanopore library prep and sequencing](Nanopore.md).
