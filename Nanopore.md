@@ -149,7 +149,7 @@ Move immediately to the adapter ligation step. If this is not possible, the samp
 
 ### Procedure
 #### Priming and loading the Flongle Flow Cell
-*Recommended: Watch [Priming and loading a Flongle Flow Cell](https://community.nanoporetech.com/nanopore_learning/lessons/priming-and-loading-a-flongle-flow-cell) before starting this step.*
+*Recommended: Watch [Priming and loading a Flongle Flow Cell](https://community.nanoporetech.com/nanopore_learning/lessons/priming-and-loading-a-flongle-flow-cell) before beginning this procedure.*
 
 1. Thaw the SB, LIB, FCT, and FCF at room temperature, mix by vortexing, and spin down. Place on ice.
 2. In a clean 1.5 mL Eppendorf tube, add the following and mix by pipetting. Place on ice
