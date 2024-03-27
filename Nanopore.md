@@ -37,7 +37,7 @@ Step 3: [Priming and Loading the Flongle Flow Cell](https://github.com/ken-inoue
 1. Using the quantified PCR product from [PCR product pooling and cleanup (Nanopore)](Nanopore_Product_Pooling.md), calculate the volume of product containing 100 ng of DNA. Add this amount to a clean 1.5 mL Eppendorf tube.
 2. Adjust the volume in the tube to 22.5 µL by adding molecular-grade H2O.
 
-*Example: A 1:10 dilution of PCR products contains 10ng/µL of DNA, meaning that 1 µL of PCR product contains ~100 ng DNA. Add 1 µL of PCR product to a clean tube and adjust the volume to 22.5 µL with 21.5 µL molecular-grade H2O.*
+*Example: A 1:10 dilution of PCR products is quantified using Qubit and contains 10ng/µL of DNA, which means that 1 µL of undiluted PCR product contains ~100 ng DNA. Add 1 µL of PCR product to a clean tube and adjust the volume to 22.5 µL with 21.5 µL molecular-grade H2O.*
 #### End-prep
 1. Thaw DNA Control Sample (DCS) at room temperature, spin down, mix by pipetting, and place on ice.
 2. Thaw NEBNext Ultra II End Repair/dA-tailing Module reagents on ice.
