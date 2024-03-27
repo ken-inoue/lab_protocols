@@ -6,6 +6,7 @@ This is a procedure for PCR product pooling and cleanup for Nanopore adapted fro
 ### Equipment and Supplies
 - Vortex
 - Table-top centrifuge
+- Magnetic rack
 - Pipettes
 - Pipette tips
 - Microcentrifuge tubes
