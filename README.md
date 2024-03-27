@@ -35,7 +35,7 @@ This is a general DNA/RNA lab manual from how to make reagents to DNA sequencing
 ## Sequencing 
 - [Cycle sequencing](Cycle_sequencing.md)
 - [Sanger sequencing](Sanger_Sequencing.md)
-- [Nanopore Library Prep and Loading](Nanopore.md)
+- [Nanopore library prep and sequencing](Nanopore.md)
 
 ## GeneMapper
 - Fragment analysis
