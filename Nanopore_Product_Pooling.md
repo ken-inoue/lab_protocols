@@ -9,8 +9,8 @@ This is a procedure for PCR product pooling and cleanup for Nanopore adapted fro
 - Magnetic rack
 - Pipettes
 - Pipette tips
-- Microcentrifuge tubes
-- PCR strip tubes
+- Eppendorf 1.5 mL tubes
+- 8-strip tubes
 - Qubit Fluorometer
 
 ### Reagents and Standards
