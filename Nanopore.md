@@ -191,8 +191,8 @@ Move immediately to the adapter ligation step. If this is not possible, the samp
 6. Click **Start** on the "Review" page to start the sequencing run.
 ***
 ### Data analysis and cleanup
-
+Output files can be imported into third-party programs for analysis.
 ### Cleanup
-
+The Flongle Flow Cell cannot be reused, but Oxford Nanopore offers a Flow Cell recycling program [here](https://help.nanoporetech.com/en/articles/6502721-flow-cell-returns).
 ### Notes
 
