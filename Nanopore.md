@@ -97,7 +97,7 @@ Move immediately to the adapter ligation step. If this is not possible, the samp
 *The Ligation Adapter (LA) included in this kit and protocol is not interchangeable with other sequencing adapters. Although the NEBNext Quick Ligation Module includes its own ligation buffer, the efficiency of the LA is higher when using the Ligation Buffer (LIB) supplied in the sequencing kit.*
 
 1. Spin down the LA and Quick T4 Ligase. Place on ice.
-2. Thaw LIB at room temperature, spin down and mix by pipetting. Place on ice.
+2. Thaw LNB at room temperature, spin down and mix by pipetting. Place on ice.
 3. Thaw EB at room temperature, mix by vortexing and spin down. Place on ice.
 
 *Short Fragment Buffer (SFB) retains DNA of all fragment sizes. Long Fragment Buffer (LFB) enriches for DNA fragments of 3kb or longer.*
