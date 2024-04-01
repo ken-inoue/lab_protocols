@@ -38,11 +38,10 @@ Step 3: [Priming and Loading the Flongle Flow Cell](https://github.com/ken-inoue
 
 *Example: A 1:10 dilution of PCR products is quantified using Qubit and contains 10ng/µL of DNA, which means that 1 µL of undiluted PCR product contains ~100 ng DNA. Add 1 µL of undiluted PCR product to a clean tube and adjust the volume to 22.5 µL with 21.5 µL molecular-grade H2O.*
 #### End-prep
-1. Thaw DNA Control Sample (DCS) at room temperature, spin down, mix by pipetting, and place on ice.
-2. Thaw NEBNext Ultra II End Repair/dA-tailing Module reagents on ice.
+1. Thaw NEBNext Ultra II End Repair/dA-tailing Module reagents on ice.
     - **Do NOT vortex the Ultra II End Prep Enzyme Mix**. Flick or invert the tube to ensure it is well mixed.
     - The Ultra II End Prep Buffer may have precipitate. Pipette the buffer up and down to break up the precipitate and then vortex for 30 seconds.
-3. In a 0.2 μL PCR tube, mix the following
+2. In a 0.2 μL PCR tube, mix the following
 
 |Reagent	|Volume|
 |:--------|:-----|
@@ -52,22 +51,22 @@ Step 3: [Priming and Loading the Flongle Flow Cell](https://github.com/ken-inoue
 |Molecular-grade H2O|2.5 µL|
 |**Total**|**30 µL**|
 
-4. Thoroughly mix the reaction by gently pipetting up and down.
-5. Incubate the reaction in a thermal cycler for 10 minutes (20°C for 5 minutes, 65°C for 5 minutes).
-6. Resuspend SPRI beads by vortexing.
-7. Transfer the DNA to a clean 1.5 mL Eppendorf tube.
-8. Add 30 µL of resuspended SPRI beads to the reaction and mix by flicking the tube.
-9. Incubate at room temperature on a gentle rotator mixer for 5 minutes.
-10. Prepare 300 µL of fresh 80% EtOH in a clean 1.5 mL Eppendorf tube (60 µL molecular-grade H2O, 240 µL 100% EtOH).
-11. Spin down sample and pellet on a magnetic rack until the supernatant is clear and colorless (~3-5 minutes).
-12. Keep tube on magnetic rack, pipette off the supernatant, and disgard the supernatant.
-13. Keep tube on magnetic rack, add 100 µL 80% EtOH and wash by gently pipetting up, taking care not to disturb the beads. Let sit for 1 minute, then pipette off EtOH and disgard.
-14. Repeat step 13.
-15. Remove the tube from rack, spin down, and place tube back on magnet. Pipette off any residual EtOH and allow pellet to dry for 30 seconds. **Do NOT overdry the pellet**.
-16. Remove the tube from rack and resuspend the pellet in 31 µL of molecular-grade H2O. Resuspend the pellet by flicking and incubate at room temperature for 2 minutes.
-17. Pellet the beads on magnetic rack until eluate is clear and coloreless (~1-2 minutes).
-18. Pipette off the 31 µL eluate and transfer to a clean 1.5 mL Eppendorf tube. The pellet may be disgarded.
-19. Quantify 1 µL of eluate using a Qubit fluorometer. *The sample should read between 3-4 ng/µL if 100 ng of cleaned PCR product were used in the DNA solution*
+3. Thoroughly mix the reaction by gently pipetting up and down.
+4. Incubate the reaction in a thermal cycler for 10 minutes (20°C for 5 minutes, 65°C for 5 minutes).
+5. Resuspend SPRI beads by vortexing.
+6. Transfer the DNA to a clean 1.5 mL Eppendorf tube.
+7. Add 30 µL of resuspended SPRI beads to the reaction and mix by flicking the tube.
+8. Incubate at room temperature on a gentle rotator mixer for 5 minutes.
+9. Prepare 300 µL of fresh 80% EtOH in a clean 1.5 mL Eppendorf tube (60 µL molecular-grade H2O, 240 µL 100% EtOH).
+10. Spin down sample and pellet on a magnetic rack until the supernatant is clear and colorless (~3-5 minutes).
+11. Keep tube on magnetic rack, pipette off the supernatant, and disgard the supernatant.
+12. Keep tube on magnetic rack, add 100 µL 80% EtOH and wash by gently pipetting up, taking care not to disturb the beads. Let sit for 1 minute, then pipette off EtOH and disgard.
+13. Repeat step 13.
+14. Remove the tube from rack, spin down, and place tube back on magnet. Pipette off any residual EtOH and allow pellet to dry for 30 seconds. **Do NOT overdry the pellet**.
+15. Remove the tube from rack and resuspend the pellet in 31 µL of molecular-grade H2O. Resuspend the pellet by flicking and incubate at room temperature for 2 minutes.
+16. Pellet the beads on magnetic rack until eluate is clear and coloreless (~1-2 minutes).
+17. Pipette off the 31 µL eluate and transfer to a clean 1.5 mL Eppendorf tube. The pellet may be disgarded.
+18. Quantify 1 µL of eluate using a Qubit fluorometer. *The sample should read between 3-4 ng/µL if 100 ng of cleaned PCR product were used in the DNA solution*
 ### Sample storage
 Move immediately to the adapter ligation step. If this is not possible, the sample can be stored at 4°C overnight.
 
