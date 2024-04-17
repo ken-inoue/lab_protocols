@@ -26,7 +26,7 @@ The Qubit dsDNA HS Reagent and Buffer are designed for room temperature storage.
 
 |Reagents|Amount|Concentration|
 |:--------|:-----|:-------------------|
-|Qubit dsDNA HS Standard #1|10 µL|0 ng/µL in TE Buffer|
+|Qubit dsDNA HS Standard #1|10 µL|10 ng/µL in TE Buffer|
 |Qubit dsDNA HS Standard #2|10 µL|10 ng/µL in TE Buffer|
 |Qubit dsDNA HS working dilution|190 µL|NA|
 3. Add the Qubit working solution and sample DNA to clean 0.5 mL Eppendorf tubes. The volume in each working tube must add up to 200 µL. *Note: DNA volume can be between 1-20 µL. Qubit working solution should be added to the chosen volume of DNA to add up to 200 µL. For example, if using 5 µL of DNA in a working tube, add 195 µL of Qubit working solution.*
