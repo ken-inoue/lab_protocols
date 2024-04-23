@@ -32,7 +32,7 @@ Step 3: [Priming and Loading the Flongle Flow Cell](https://github.com/ken-inoue
 
 ### Procedure
 #### Mix DNA solution
-*This protocol calls for 100 ng of DNA adjusted to 22.5 µL in molecular-grade H2O.*
+*This protocol calls for 100 ng of DNA adjusted to 25 µL in molecular-grade H2O.*
 1. Using the quantified PCR product from [PCR product pooling and cleanup (Nanopore)](Nanopore_Product_Pooling.md), calculate the volume of product containing 100 ng of DNA. Add this amount to a clean 1.5 mL Eppendorf tube.
 2. Adjust the volume in the tube to 25 µL by adding molecular-grade H2O.
 
