@@ -34,7 +34,7 @@ Step 3: [Priming and Loading the Flongle Flow Cell](https://github.com/ken-inoue
 #### Mix DNA solution
 *This protocol calls for 100 ng of DNA adjusted to 22.5 µL in molecular-grade H2O.*
 1. Using the quantified PCR product from [PCR product pooling and cleanup (Nanopore)](Nanopore_Product_Pooling.md), calculate the volume of product containing 100 ng of DNA. Add this amount to a clean 1.5 mL Eppendorf tube.
-2. Adjust the volume in the tube to 22.5 µL by adding molecular-grade H2O.
+2. Adjust the volume in the tube to 25 µL by adding molecular-grade H2O.
 
 *Example: A 1:10 dilution of PCR products is quantified using Qubit and contains 10ng/µL of DNA, which means that 1 µL of undiluted PCR product contains ~100 ng DNA. Add 1 µL of undiluted PCR product to a clean tube and adjust the volume to 22.5 µL with 21.5 µL molecular-grade H2O.*
 #### End-prep
@@ -45,10 +45,9 @@ Step 3: [Priming and Loading the Flongle Flow Cell](https://github.com/ken-inoue
 
 |Reagent	|Volume|
 |:--------|:-----|
-|DNA|22.5 µL|
+|DNA|25 µL|
 |Ultra II End Prep Reaction Buffer|3.5 µL|
 |Ultra II End Prep Enzyme Mix|1.5 µL|
-|Molecular-grade H2O|2.5 µL|
 |**Total**|**30 µL**|
 
 3. Thoroughly mix the reaction by gently pipetting up and down.
