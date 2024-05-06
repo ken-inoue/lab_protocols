@@ -1,5 +1,14 @@
 ## Primers for Nanopore MinION COI barcodes
 
+### Barceded forward primers
+|	Barcode ID	|	Barcode seq 	|	Primer seq	|
+|	:----	|	:----	|	:----	|
+|	FolCOI-L_HL097	|	GCGACAAGCACCG	|	GGTCAACAAATCATAAAGATATTGG	|
+|	FolCOI-L_HL098	|	GCTCCTACTGCCA	|	GGTCAACAAATCATAAAGATATTGG	|
+|	FolCOI-L_HL099	|	GTAGCCTATGGCG	|	GGTCAACAAATCATAAAGATATTGG	|
+|	FolCOI-L_HL100	|	GTTAGACAATACT	|	GGTCAACAAATCATAAAGATATTGG	|
+
+### Barceded revserse primers
 |	Col	|	Row	|	Barcode ID	|	Barcode Seq	|	Primer Seq	|
 |	:------	|	:------	|	:------	|	:------	|	:------	|
 |	A	|	1	|	FolCOI-H_HL001	|	ATCCGGTCGGAGA	|	TAAACTTCAGGGTGACCAAAAAATCA	|
