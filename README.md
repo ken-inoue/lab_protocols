@@ -21,6 +21,7 @@ This is a general DNA/RNA lab manual from how to make reagents to DNA sequencing
 
 ## Primers
 - [Routine Genetic Markers for DNA Barcoding](Primers_for_Sanger_seq.md)
+- [Nanopore COI barcodes](Barcode_primers_for_Nanopore.md)
 
 ## PCR
 - [PCR (general & Sanger sequencing)](PCR.md)
@@ -43,6 +44,3 @@ This is a general DNA/RNA lab manual from how to make reagents to DNA sequencing
 
 - Adapters
 
-## Oxford Nanpore
-
-- Multiplex barcodes
