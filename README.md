@@ -40,7 +40,7 @@ This is a general DNA/RNA lab manual from how to make reagents to DNA sequencing
 ## GeneMapper
 - Fragment analysis
 
-## RADSeq
+## ddRADSeq
 
-- Adapters
+- [Adapters and indexes](ddRADseq_adapter.md)
 
