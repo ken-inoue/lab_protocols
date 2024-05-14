@@ -56,6 +56,8 @@ The following adpaters are designed for the restriction enzyme EcoRI and MspI. U
 |	TTACC_EcoRI_P1	|	TTACC_EcoRI_P1 Antisense	|	\5Phos\AATTGGTAAAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT	|	TTACC_EcoRI_P1 Sense	|	ACACTCTTTCCCTACACGACGCTCTTCCGATCTTTACC	|
 
 #### A single adapter
+|	Duplex Name	|	Sense Seq Name	|	Sense Sequence	|	Antisense Seq Name	|	Antisense Sequence	|
+|	:--	|	:--	|	:--	|	:--	|	:--	|
 |	MspI_P2	|	MspI_P2 Antisense	|	\5Phos\CGAGATCGGAAGAGCGAGAACAA	|	MspI_P2 Sense	|	GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT	|
 
 #### Illumina P5 primer and 12 indexed P7 primers
