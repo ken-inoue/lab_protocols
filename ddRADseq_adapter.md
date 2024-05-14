@@ -1,6 +1,6 @@
 ## Adapter for ddRADseq
 
-The following dapaters are designed for the restriction enzyme EcoRI and MspI. Using the following adaptors and indexes, a maximum of 576 sample can be pool for a library.
+The following adpaters are designed for the restriction enzyme EcoRI and MspI. Using the following adaptors and indexes, a maximum of 576 sample can be pool for a library.
 ### Restriction enzymes: EcoRI and MspI 
 #### 48 barcoded adapters
 
