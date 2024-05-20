@@ -2,10 +2,11 @@
 The following resources are taken from Oxford Nanopore Technologies [online portal](https://id.customers.nanoporetech.com/app/nanoporetech-customers_community_1/exk2kkqokrHG49IhQ697/sso/saml?RelayState=https://community.nanoporetech.com/). The portal contains updates on new technologies and protocols, chat forums, online courses and lessons for community members that can be accessed at any time. The online learning modules listed below are extremely helpful for anyone who is learning to use Nanopore for the first time.
 
 #### Program Installation
-- [Installing MinKNOW on Windows](https://community.nanoporetech.com/docs/prepare/library_prep_protocols/experiment-companion-minknow/v/mke_1013_v1_revdc_11apr2016/installing-minknow-on-wind)
-- [Installing MinKNOW on Mac OS X](https://community.nanoporetech.com/docs/prepare/library_prep_protocols/experiment-companion-minknow/v/mke_1013_v1_revdc_11apr2016/installing-minknow-on-mac)
-- [Installing MinKNOW on Linux](https://community.nanoporetech.com/docs/prepare/library_prep_protocols/experiment-companion-minknow/v/mke_1013_v1_revdc_11apr2016/installing-minknow-on-linu)
-- [Installing Dorado and other analysis software](https://community.nanoporetech.com/downloads)
+- [MinKNOW on Windows](https://community.nanoporetech.com/docs/prepare/library_prep_protocols/experiment-companion-minknow/v/mke_1013_v1_revdc_11apr2016/installing-minknow-on-wind)
+- [MinKNOW on Mac OS X](https://community.nanoporetech.com/docs/prepare/library_prep_protocols/experiment-companion-minknow/v/mke_1013_v1_revdc_11apr2016/installing-minknow-on-mac)
+- [MinKNOW on Linux](https://community.nanoporetech.com/docs/prepare/library_prep_protocols/experiment-companion-minknow/v/mke_1013_v1_revdc_11apr2016/installing-minknow-on-linu)
+- [Dorado and other analysis software](https://community.nanoporetech.com/downloads)
+- [ONTBarcoder](https://github.com/asrivathsan/ONTbarcoder)
 #### Videos
 - [MinION Introduction](https://community.nanoporetech.com/nanopore_learning/lessons/unboxing-minion-introduction): Introduces the MinION device and all its component parts.
 - [Library preparation: Ligation sequencing kit](https://community.nanoporetech.com/nanopore_learning/lessons/sqk-lsk109-library-prep): Provides an overview of the ligation sequencing kit workflows. *Note: When using Flongle Flow Cells, most amounts and volumes referenced in this video will be halved.*
