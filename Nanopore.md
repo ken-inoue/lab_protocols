@@ -184,7 +184,7 @@ Move immediately to the adapter ligation step. If this is not possible, the samp
 12. Close the device and set up a run using the MinKNOW software.
 #### Data Acquisition and Basecalling
 1. To start a sequencing run using MinKNOW, navigate to the start page and click "Start Sequencing".
-2. Fill in your experimental details, such as name, flow cell position, and sample ID.
+2. Fill in your experimental details, such as name, flow cell position, and sample ID. ***Flongle flow cell IDs can be found on the flow cell itself (3 letters followed by 3 numbers). Select "FLO-FLG114" as the flow cell type for Flongle.***
 3. Select the sequencing kit used during library preparation on the "Kit" page. *We use Ligation Sequencing Kit SQK-LSK114.*
 4. Configure the sequencing parameters for your sequencing run or keep the default parameters on the "Run options" and "Analysis" tabs.
    - Basecalling can be turned on or off. Basecalling can be performed post-sequencing run using MinKNOW or a third-party progam such as Dorado or ONTBarcoder.
