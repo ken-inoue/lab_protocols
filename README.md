@@ -2,14 +2,17 @@
 
 This is a general DNA/RNA lab manual from how to make reagents to DNA sequencing, microsatellite genotyping via fragment analysis, and quantifying gene expression via qPCR. This manual provides a starting point and may need optimization and modification for your study. Each study will require fine-tuning of the manual.
 
-## Genetic sampling
-- Mantle tissue clips
-- Tissue swabs
+## Resources
+- [Nanopore online learning](Nanopore_learning.md)
 
 ## Lab Management & Maintenance
 - [Lab Management](general_lab_preparation.md)
 - Supplies
 - [Reagent & Buffer Recipes](reagent_and_buffers.md)
+
+## Genetic sampling in the field
+- Mantle tissue clips
+- Tissue swabs
 
 ## Extraction
 - [CTAB/Chroloform DNA Extraction](CTAB_extraction.md)
