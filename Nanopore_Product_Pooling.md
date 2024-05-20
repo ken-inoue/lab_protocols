@@ -3,7 +3,7 @@
 ### Summary
 This is a procedure for PCR product pooling and cleanup for Nanopore adapted from [Srivathsan et al. (2021)](https://doi.org/10.1186/s12915-021-01141-x). This procedure is volume adjusted for Flongle Flow Cells but may need modification for use with MinION Flow Cells or other Nanopore sequencing devices.
 
-For first time Nanopore users, we recommend that you review the [Nanopore online learning](Nanopore_learning.md) document before starting Nanopore lab protocols.
+***For first time Nanopore users, we recommend that you review the [Nanopore online learning](Nanopore_learning.md) document before starting Nanopore lab protocols.***
 
 ### Equipment and Supplies
 - Vortex
