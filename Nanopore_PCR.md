@@ -3,7 +3,7 @@
 ### Summary
 This is a procedure for polymerase chain reaction (PCR). This protocol was designed specifically for Nanopore sequencing. Each study will require fine tuning of this protocol as PCR protocols may not transfer well from one study to another. This protocol provides a starting point but may need modifications (see PCR optimization procedure and troubleshooting).
 
-***For first time Nanopore users, we recommend that you review the [Nanopore online learning](Nanopore_Learning.md) document before starting Nanopore lab protocols.***
+***For first time Nanopore users, we recommend that you review the [Nanopore online learning](Nanopore_learning.md) document before starting Nanopore lab protocols.***
 
 ### Equipment & Supplies
 - Vortex
