@@ -9,6 +9,8 @@ Step 2: [Adapter Ligation and Cleanup](https://github.com/ken-inoue/lab_protocol
 
 Step 3: [Priming and Loading the Flongle Flow Cell](https://github.com/ken-inoue/lab_protocols/blob/main/Nanopore.md#priming-and-loading-the-flongle-flow-cell)
 
+***For first time Nanopore users, we recommend that you review the [Nanopore online learning](Nanopore.learning.md) document before starting Nanopore lab protocols.***
+
 ## End Prep
 ### Equipment and Supplies
 - Vortex
