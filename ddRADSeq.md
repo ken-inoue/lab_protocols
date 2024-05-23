@@ -14,7 +14,7 @@
 - 100 %  ethanol (molecular biology grade)
 - Gel materials
 - DNAse-Rnase free ultrapure water
-- PstI-HF® ref NEB : R3140S [P1-PstI_sequences.pdf]
+- PstI-HF® ref NEB : R3140S [P1-PstI_sequences.pdf](https://github.com/ken-inoue/lab_protocols/files/15421345/P1-PstI_sequences.pdf)
 - MseI  ref Neb : R0525S
 - T4 DNA Ligase  ref NEB : M0202L
 - ATP 10mM ref NEB : P0756
