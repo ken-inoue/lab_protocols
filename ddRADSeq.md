@@ -66,7 +66,7 @@ All reagents should be kept frozen or refrigerated according to manufacturer rec
 |EDTA Na2|10 mM|
 #### Preparation of double-stranded adapters
 ##### Barcoded P1 adaptors
-1. In a 96-well plate, combine complimentary oligos [P1-PstI_sequences.pdf](https://github.com/ken-inoue/lab_protocols/files/15421345/P1-PstI_sequences.pdf) together with annealing buffer and nuclease-free water according to the table shown below. Leave space between wells to avoid cross contamination.
+2. In a 96-well plate, combine complimentary oligos [P1-PstI_sequences.pdf](https://github.com/ken-inoue/lab_protocols/files/15421345/P1-PstI_sequences.pdf) together with annealing buffer and nuclease-free water according to the table shown below. Leave space between wells to avoid cross contamination.
 - Example plate map
   - <img width="493" alt="Plate map example" src="https://github.com/ken-inoue/lab_protocols/assets/151090195/99b871a3-9e30-4c69-9f66-a1f3015af46a">
 In each well:
@@ -76,5 +76,16 @@ In each well:
 |Adaptor P1-2|10µM|5 µL|
 |Annealing buffer|10X|5 µL|
 |Nuclease-free H2O|na|35 µL|
+3. Seal the plate and incubate in a thermal cycler at 95°C for 5 minutes, then cool at a rate of 0.1°C/s to 20°C. Store at 4°C or -20°C for long term storage.
+##### P2 adaptors
+4. In an Eppendorf tube, combine the following and mix by pipetting:
 
-
+|Reagents|Concentration|Volume|
+|:--------|:-----|:-----|
+|P2-1|100µM|80 µL|
+|P2-2|100µM|80 µL|
+|Annealing buffer|10X|80 µL|
+|Nuclease-free H2O|na|560 µL|
+5. Aliquot 100 µL of the solution into each well of an 8-PCR tube strip
+6. Seal the tube strip and incubate in a thermal cycler at 95°C for 5 minutes, then cool at a rate of 0.1°C/s to 20°C. Store at 4°C or -20°C for long term storage.
+#### Preparation of genomic DNA
