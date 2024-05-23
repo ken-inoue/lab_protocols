@@ -8,7 +8,7 @@
 - Cutsmart buffer
 - Pst HF
 - Msel
-- ds barcoded adapter P1 1uM
+- ds barcoded adapter P1
 - ligation mix (ds nonbarcoded adapter P2, cutsmart buffer, ATP, T4 DNA ligase)
 - Magnetic beads
 - 100% EtOH
