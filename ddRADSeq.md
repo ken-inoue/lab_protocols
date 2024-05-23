@@ -58,4 +58,6 @@ The present ddRAD protocol as been slightly adapted from Alan Brelsford's protoc
 All reagents should be kept frozen or refrigerated according to manufacturer recommendations until you are ready to use. Repeated freezing and thawing will kill primers. Place primers on ice once thawed if possible.
 
 ### Procedure
-
+#### Preparation of double-stranded adapters
+##### Barcoded P1 adapters
+1. 
