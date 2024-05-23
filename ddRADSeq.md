@@ -1,29 +1,46 @@
 ## ddRADSeq
 
 ### Equipment and supplies
-- Vortex
+- PCR plates
+- PCR tube strips
+- Eppendorf tubes
 - Pipettes
 - Pipette tips
-- Microcentrifuge tubes
-- PCR tube strips
-- Table-top spinner
-- Thermal cycler
-- Magnetic bead rack
+- Agilent DNA High sensitivity DNA kit (5067-4626)
+- Qubit microtubes
+- Table-top centrifuge
+- Vortex
+- Microwave
+- Thermocycler
+- Gel Electrophoresis Systems
+- Magnetic tube rack
+- Pippin prep (Sage Science)
+- Qubit fluorimeter
+- qPCR equipment
+- Bioanalyzer
 
 ### Reagents and Standards (need about ~100 ng of DNA)
 - 100 %  ethanol (molecular biology grade)
-- Gel materials
+- Gel electrophoresis materials/reagents
 - DNAse-Rnase free ultrapure water
-- PstI-HF® ref NEB : R3140S [P1-PstI_sequences.pdf](https://github.com/ken-inoue/lab_protocols/files/15421345/P1-PstI_sequences.pdf)
+- PstI-HF® ref NEB : R3140S
+  - PstI adapter p1.1: ACACTCTTTCCCTACACGACGCTCTTCCGATCTnnnnnnTGCA
+  - PstI adapter p1.2: nnnnnnAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
+  - [P1-PstI_sequences.pdf](https://github.com/ken-inoue/lab_protocols/files/15421345/P1-PstI_sequences.pdf)
 - MseI  ref Neb : R0525S
+    - MseI adaptor 2.1: GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT
+    - MseI adaptor 2.2: /5Phos/TAAGATCGGAAGAGCGAGAACAA
+    - (AT rich genomes) MspI adaptor 2.1 : GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT
+    - (At rich genomes) MspI adaptor 2.2:  /5Phos/CGAGATCGGAAGAGCGAGAACAA
+- ILLPCR1 primer: aaTGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACG
 - T4 DNA Ligase  ref NEB : M0202L
 - ATP 10mM ref NEB : P0756
 - Annealing buffer stock (10X): 100 mM Tris HCl, pH 8, 500 mM NaCl, 10 mM EDTA
 - dNTP set 4x0,25mlx100mM ref Neb : N0446S
 - Q5® Hot Start High-Fidelity DNA Polymerase  ref NEB : M0493L
-- Ampure XP beads Beckman coulter (A63881) or NGS clean up and size selection (Macherey Nagel REF  744970.50)
+- Ampure XP beads or NGS clean up and size selection (Macherey Nagel REF  744970.50)
 - Elution solution/buffer for magnetic beads (Tris 10mM)
-- Freshly diluted 70% ethanol 
+- Freshly diluted 70/80% ethanol 
 - Pippin Prep reagents and cassettes (1,5 % DF Marker K,  ref SageScience CDF1510) -> might not use
 - NEBNext Library Quant kit for illumina  ref Neb : E7630 -> only for dilution buffer if we want to quantify concentration at the end (only quantifies fragments that will be amplified during Illumina)
 - Qubit 1X dsDNA BR (Thermo, Q33266)
