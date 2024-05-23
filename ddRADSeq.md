@@ -8,7 +8,6 @@ The present ddRAD protocol as been slightly adapted from Alan Brelsford's protoc
 
 [ddRADseq at a glance](https://github.com/ken-inoue/lab_protocols/assets/151090195/a970a2e2-8c46-43b6-b73e-9df929fda2df)
 
-
 ### Equipment and supplies
 - PCR plates
 - PCR tube strips
@@ -35,7 +34,6 @@ The present ddRAD protocol as been slightly adapted from Alan Brelsford's protoc
 - PstI-HF® ref NEB : R3140S
   - PstI adapter p1.1: ACACTCTTTCCCTACACGACGCTCTTCCGATCTnnnnnnTGCA
   - PstI adapter p1.2: nnnnnnAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
-  - [P1-PstI_sequences.pdf](https://github.com/ken-inoue/lab_protocols/files/15421345/P1-PstI_sequences.pdf)
 - MseI  ref Neb : R0525S
     - MseI adaptor 2.1: GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT
     - MseI adaptor 2.2: /5Phos/TAAGATCGGAAGAGCGAGAACAA
@@ -58,6 +56,25 @@ The present ddRAD protocol as been slightly adapted from Alan Brelsford's protoc
 All reagents should be kept frozen or refrigerated according to manufacturer recommendations until you are ready to use. Repeated freezing and thawing will kill primers. Place primers on ice once thawed if possible.
 
 ### Procedure
+#### Make annealing buffer
+1. Make the annealing buffer according to the recipe below:
+
+|Reagents|Amount|
+|:--------|:-----|
+|Tris-HCl pH 8|100 mM|
+|NaCl|500 mM|
+|EDTA Na2|10 mM|
 #### Preparation of double-stranded adapters
-##### Barcoded P1 adapters
-1. 
+##### Barcoded P1 adaptors
+1. In a 96-well plate, combine complimentary oligos [P1-PstI_sequences.pdf](https://github.com/ken-inoue/lab_protocols/files/15421345/P1-PstI_sequences.pdf) together with annealing buffer and nuclease-free water according to the table shown below. Leave space between wells to avoid cross contamination.
+- Example plate map
+  - <img width="493" alt="Plate map example" src="https://github.com/ken-inoue/lab_protocols/assets/151090195/99b871a3-9e30-4c69-9f66-a1f3015af46a">
+In each well:
+|Reagents|Concentration|Volume|
+|:--------|:-----|:-----|
+|Adaptor P1-1|10µM|5 µL|
+|Adaptor P1-2|10µM|5 µL|
+|Annealing buffer|10X|5 µL|
+|Nuclease-free H2O|na|35 µL|
+
+
