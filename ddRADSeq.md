@@ -93,6 +93,7 @@ In each well:
 #### Double digestion
 8. Thaw, vortex and spin down all reagents except for enzymes. Place all reagents on ice while thawing.
 9. In an Eppendorf tube, prepare the following master mix:
+
 |Reagents|Concentration|Final quantity|N=1|N=104 (1 plate)|
 |:--------|:-----|:-----|:-----|:-----|
 |Genomic DNA|NA|50-200 ng|30|NA|
