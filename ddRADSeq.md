@@ -96,12 +96,44 @@ In each well:
 
 |Reagents|Concentration|Final quantity|N=1|N=104 (1 plate)|
 |:--------|:-----|:-----|:-----|:-----|
-|Genomic DNA|NA|50-200 ng|30|NA|
+|Genomic DNA|NA|50-200 ng|30 µL|NA|
 |Cutsmart buffer|10X|1X|3.5 µL|364 µL|
 |Enzyme 1 Pst HF|20u/µL|8U|0.4 µL|41.6 µL|
 |Enzyme 2 Msel|10u/µL|2 U|0.2 µL|20.8 µL|
 |Nuclease-free H2O|NA|NA|0.9 µL|93.6 µL|
 |Total volume|||35 µL||
+
+10. Vortex and spin down the master mix. Aliquot 65 µL of master mix into each well of an 8-PCR tube strip.
+11. Use a multichannel pipette to add 5 µL of master mix into each well of the 96-well plate containing the 30 µL of diluted genomic DNA. Seal the plate and spin down.
+12. Incubate the plate in a thermal cycler at 37°C for 10 hours, then at 65°C for 20 minutes (to inactivate enzymes), then at 4°C overnight.
+#### Check digestion
+13. Check the efficiency of the digestion on a gel using 5 µL of digested DNA. High molecular weight DNA should no longer be visible. [Example](https://github.com/ken-inoue/lab_protocols/assets/151090195/33d7c782-2b79-4d5d-9ef0-8a6746fb9a5f)
+#### Adaptor ligation
+14.  Thaw, vortex and spin down all reagents except for enzymes. Place all reagents on ice while thawing.
+15.  Set up the adaptor ligation mix and ligation reaction as follows:
+###### Ligation Mix
+|Reagents|Concentration (stock)|Concentration (final)|N=1|N=104 (1 plate)|
+|:--------|:-----|:-----|:-----|:-----|
+|ds nonbarcoded adaptor P2|10µM|NA|1.8 µL|187.2 µL|
+|Cutsmart buffer|10X|1X|1 µL|104 µL|
+|ATP|10mM|1mM|4 µL|416 µL|
+|T4 DNA ligase|400u/µL|NA|0.4 µL|41.6 µL|
+|Nuclease-free H2O|NA|NA|0.9 µL|93.6 µL|
+|Total volume|||7.2 µL||
+###### Ligation Master Mix
+|Reagents|N=1|
+|:--------|:-----|
+|Digest DNA|30 µL|
+|ds barcoded adaptor P1 1µM|2.8 µL|
+|Ligation mix|7.2 µL|
+
+16. Vortex and spin down the master mix. Aliquot 93.5 µL of master mix into each well of an 8-PCR tube strip.
+17. In the DNA digestion plate (30 µL per well) add 2.8 µL of Adapt P1 from the adaptor plate (see Step 1) with a multichannel pipette.
+18. Use a multichannel pipette to add 7.2 µL of ligation master mix into each well of the DNA digestion plate. Seal the plate and spin down.
+19. Incubate the plate in a thermal cycler at 16°C for 6 hours, then at 4°C overnight. *If you are not planning to perform the bead purification the day after, store at -20°C.*
+#### Bead purification
+
+
 
 
 
