@@ -88,4 +88,34 @@ In each well:
 |Nuclease-free H2O|na|560 µL|
 5. Aliquot 100 µL of the solution into each well of an 8-PCR tube strip
 6. Seal the tube strip and incubate in a thermal cycler at 95°C for 5 minutes, then cool at a rate of 0.1°C/s to 20°C. Store at 4°C or -20°C for long term storage.
-#### Preparation of genomic DNA
+#### Preparation of genomic DNA *(reqiures 50-100 ng of DNA per sample)*
+7. Add genomic DNA and 30 µL nuclease-free water in a 96-well plate. Samples should not contain RNA. An RNAase treatment can be added to extraction to achieve RNA-free samples. Randomize samples across the plate, leaving a few wells open as negative controls.
+#### Double digestion
+8. Thaw, vortex and spin down all reagents except for enzymes. Place all reagents on ice while thawing.
+9. In an Eppendorf tube, prepare the following master mix:
+|Reagents|Concentration|Final quantity|N=1|N=104 (1 plate)|
+|:--------|:-----|:-----|:-----|:-----|
+|Genomic DNA|NA|50-200 ng|30|NA|
+|Cutsmart buffer|10X|1X|3.5 µL|364 µL|
+|Enzyme 1 Pst HF|20u/µL|8U|0.4 µL|41.6 µL|
+|Enzyme 2 Msel|10u/µL|2 U|0.2 µL|20.8 µL|
+|Nuclease-free H2O|NA|NA|0.9 µL|93.6 µL|
+|Total volume|||35 µL||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
