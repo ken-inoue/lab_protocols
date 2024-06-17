@@ -218,7 +218,7 @@ In each well:
 #### Sample pooling
 53. All barcoded and index individuals can now be pooled into a single tube. Pool 5 µL of all individual samples into a single, 1.5 mL Eppendorf tube.
 
-*If smear intensity on gel was not uniform, you can estimate the concentration of DNA fragments per sample and pool based on intensity (i.e., create separate pools for "low", "intermediate" and "high" intensity samples).*
+*If smear intensity on gel is not uniform, you can estimate the concentration of DNA fragments per sample and pool based on intensity (i.e., create separate pools for "low", "intermediate" and "high" intensity samples).*
 
 54. Use Qubit to estimate the DNA concentration of the pooled samples. If the DNA concentration is lower than 20 nM, perform a 1:1 bead clean-up following the steps in the "Bead purification" section on a partial volume of the pool to improve the final concentration of DNA. Elution should be done in at least 50 µL, but adapt volume to the desired final concentration.
 #### Size-selection with Pippin-Prep
