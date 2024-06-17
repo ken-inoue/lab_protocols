@@ -141,6 +141,27 @@ In each well:
 18. Use a multichannel pipette to add 7.2 µL of ligation master mix into each well of the DNA digestion plate. Seal the plate and spin down.
 19. Incubate the plate in a thermal cycler at 16°C for 6 hours, then at 4°C overnight. *If you are not planning to perform the bead purification the day after, store at -20°C.*
 #### Bead purification
+##### Prep
+20. Remove magnetic beads from fridge and allow them to sit out and come to room temperature.
+22. Prepare 50 mL fresh 70% EtOH (35 µL 100% EtOH, 15 µL nuclease-free H2O).
+24. Vortex magnetic beads well to resuspend in solution. Fill each well of a 8-PCR tube strip with bead solution.
+25. Using a multichannel pipette, add 60 µL of bead solution to the first 4 columns of a 96-well PCR plate.
+26. Spin down the 96-well plate containing the digested-ligated DNA products.
+27. Fill each well of a 8-PCR tube strip with Tris-HCl pH8 10mM.
+28. Using a multichannel pipette, add 5 µL of Tris-HCl to each well of the 96-well plate containing digested-ligated DNA products.
+##### Purification
+28. Using a multichannel pipette, transfer 40 µL of DNA products from the first 4 columns of the digested-ligated 96-well plate into the first 4 columns of the purification plate. Mix by gently pipetting up and down. Incubate for 5 minutes at room temperature
+29. Place the purification plate on the magnetic plate rack and incubate for 5 minutes until supernatant is clear and colorless and beads are pelleted on the walls of each well.
+30. Leaving the plate on the magnetic rack, remove and disgard the supernatant using a pipette, taking care not to disturb the bead pellet.
+31. Leaving the plate on the magnetic rack, add 200 µL of 70% EtOH to each well in the first 4 columns of the purification rack. Take care not to disturb the bead pellet. Incubate for 1 minute, then remove and disgard the EtOH using a pipette.
+32. Repeat step 31.
+33. Leaving the plate on the magnetic rack, let the bead pellets dry for a maximum of 5 minutes, taking care not to overdry the pellets to the point of cracking.
+34. Remove the plate from the magnetic rack. Using a multichannel pipette, add 40 µL of Tris pH8 10mM to each well. Pipette up and down gently to re-suspend the pellet in solution. Incubate the purification plate at room temperature for 5 minutes.
+35. Place the plate back on the magnetic rack and incubate for 5 minutes until eluate is clear and colorless and beads are pelleted on the walls of each well.
+36. Transfer 35 µL of eluate containing purified DNA to a new 96-well plate. Disgard the purification plate.
+37. Seal and store the plate at 4°C and proceed with the purification of columns 5-8 and 9-12 as described above. Once finished, seal and store the plate at 4°C for short term storage or -20°C for long term storage until PCR amplification.
+#### PCR
+
 
 
 
