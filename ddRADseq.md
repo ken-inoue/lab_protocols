@@ -193,6 +193,17 @@ In each well:
 
 *PCR will be performed in parallel in 4 different thermal cyclers in order to reduce PCR bias. Products are pooled back into a single plate after PCR using a multichannel pipette.*
 #### PCR (second cycle)
+*Primers in excess*
+
+47. Prepare the following master mix for each index primer in a 1.5 mL Eppendorf tube (4 total):
+
+|Reagents|Concentration (stock)|N=1|N=28 (3 columns)|
+|:--------|:-----|:-----|:----|
+|NEB Q5 buffer|5X|0.2 µL|24 µL|
+|dNTP mix|25mM|0.08 µL|9.6 µL|
+|illPCR primer mix (illPCR1 and illPCR2)|5X|0.4 µL|48 µL|
+|Nuclease-free H2O||0.32 µL|38.4 µL|
+|**Total volume**||4 µL|120 µL|
 
 
 
