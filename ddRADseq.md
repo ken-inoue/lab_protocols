@@ -19,6 +19,8 @@ The present ddRAD protocol as been slightly adapted from Alan Brelsford's protoc
 
 [PCR](https://github.com/ken-inoue/lab_protocols/blob/main/ddRADseq.md#pcr-first-cycle)
 
+[Size selection](https://github.com/ken-inoue/lab_protocols/blob/main/ddRADseq.md#size-selection-with-pippin-prep)
+
 ### Equipment and supplies
 - PCR plates
 - PCR tube strips
