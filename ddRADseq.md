@@ -184,12 +184,12 @@ In each well:
 
 39. Vortex all 5 tubes of master mixes and spin down.
 40. Aliquot 130 µL of the first master mix (in 5 mL tube) into each well of 2 8-PCR tube strips. Using a multichannel pipette, dispense 20 µL of the first master mix into each well of a new 96-well plate.
-41. Aliquot 93 µL of the 4 primer PCR mixes (1.5 mL tubes) into each well of a 12-PCR tube strip (3 wells per index primer mix). [Example image](https://github.com/ken-inoue/lab_protocols/assets/151090195/9d344063-1fdf-4491-adb6-bfdb9b72d191)
+41. Aliquot 93 µL of the 4 primer PCR mixes (1.5 mL tubes) into each well of a 12-PCR tube strip (3 wells of 93 µL per index primer mix). [Example image](https://github.com/ken-inoue/lab_protocols/assets/151090195/9d344063-1fdf-4491-adb6-bfdb9b72d191)
 42. Using a 12 multichannel pipette, dispense 10 µL of the PCR mixes by rows into each well of the 96-well plate containing the first master mix.
 43. Spin down the adaptor-ligated purified DNA plate.
 44. Using a multichannel pipette, transfer 10 µL of DNA into its corresponding well on the PCR plate and mix by pipetting.
 45. Aliquot the 40 µL total volume in the PCR plate by transfering 30 µL from each well into 3 new PCR plates (10 µL of PCR mix per plate). Seal all 4 PCR plates and spin down.
-46. Plate all 4 plates in thermal cyclers and start PCR simultaneously using the following program: 98°C for 30s, 15x [98°C for 20s, 60°C for 60s, 72°C for 40s], 72°C for 10min, 12°C hold.
+46. Plate all 4 plates in thermal cyclers and start PCR simultaneously using the following program: 98°C for 30s, 15x [98°C for 20s, 60°C for 60s, 72°C for 40s], 72°C for 10 min, 12°C hold.
 
 *PCR will be performed in parallel in 4 different thermal cyclers in order to reduce PCR bias. Products are pooled back into a single plate after PCR using a multichannel pipette.*
 #### PCR (second cycle)
@@ -204,6 +204,46 @@ In each well:
 |illPCR primer mix (illPCR1 and illPCR2)|5X|0.4 µL|48 µL|
 |Nuclease-free H2O||0.32 µL|38.4 µL|
 |**Total volume**||4 µL|120 µL|
+
+## Issue here with volume of 4? double check
+
+48. Vortex all 4 primer mixes and spin down. Aliquot 40 µL of the primer PCR mixes into each well of a 12-PCR tube strip (3 wells of 40 µL per index primer mix as shown in the example image from the first PCR).
+49. Using a 12 multichannel pipette, dispense 4 µL of the PCR mixes by rows into each well of the 96-well plate containing the pooled products from the first PCR cycle. Seal the plate and spin down.
+50. In a thermal cycler, run the following program: 98°C for 3 min, 60°C for 2 min, 72°C for 12 min, 12°C hold.
+51. Store at 4°C for short term storage or -20°C for long term storage.
+#### Check PCR success
+52. Check the efficiency of PCR on a gel using 5 µL of PCR product. All smears should have a similar intensity after equalizing PCR. 
+#### Sample pooling
+53. All barcoded and index individuals can now be pooled into a single tube. Pool 5 µL of all individual samples into a single, 1.5 mL Eppendorf tube.
+
+*If smear intensity on gel was not uniform, you can estimate the concentration of DNA fragments per sample and pool based on intensity (i.e., create separate pools for "low", "intermediate" and "high" intensity samples).*
+
+54. Use Qubit to estimate the DNA concentration of the pooled samples. If the DNA concentration is lower than 20 nM, perform a 1:1 bead clean-up following the steps in the "Bead purification" section on a partial volume of the pool to improve the final concentration of DNA. Elution should be done in at least 50 µL, but adapt volume to the desired final concentration.
+#### Size-selection with Pippin-Prep
+55. Perform size selection on fragments between 300-800 bp using a 1.5% DF marker K agarose gel cassette. Follow manufacturer instructions [here](https://github.com/user-attachments/files/15877171/Quick-Guide-CDF1510-marker-K3.pdf).
+#### Quality control
+56. Use a Bioanalyzer (Agilent) in a High Sensitivity DNA chip to control the quality of the library. Dilute your pool 1:2 or more and load 1 µL of the pool before and after size selection, following manufacturer instructions [here](https://github.com/user-attachments/files/15877223/HighSensitivity_DNA_KG.pdf.pdf). [Example Bioanalyzer profile](https://github.com/ken-inoue/lab_protocols/assets/151090195/56fbe4a0-87c6-4629-8e7b-89eead0b8db4)
+#### Concentration estimation
+57. Perform an estimation of dsDNA using the Qubit BR assay kit or through qPCR quantification with the NEBNext Library Quant Kit for Illumina using p5 and p7 illumina primers. The qPCR estimation is more informative because it only registers fragments starting with p5 and ending with p7 sequences, effectively estimating only the DNA that will be amplified onto the flowcell of Illumina sequencers. [User manuel](https://github.com/user-attachments/files/15877270/manualE7630.pdf)
+###### Dilution suggestions for qPCR kit
+In a 8-tube PCR strip:
+Prepare intermediate dilutions (1:10 and 1:100) of the library  with the dilution buffer supplied in the qPCR kit.
+
+Then prepare the 4 library dilutions to be used in triplicate for qPCR analysis :
+
+1:1000 : 10µl of 1/100 +  90µl buffer 1X
+
+1:2000 : 50µl of 1/1000 +  50µl buffer 1X
+
+1:4000 : 50µl of 1/2000 +  50µl buffer 1X
+
+1:8000 : 50µl of 1/4000 +  50µl buffer 1X
+
+You should get more than 10 nM, that is the library concentration usually required by the sequencing platform facilities. 
+The library is now ready for sequencing in single read or paired-end 150 bases in an Illumina sequencer, with one index read. Use the average size of the library size range as estimated from the Bioanalyzer profile to convert DNA concentration from nM  to ng/µl.
+
+
+
 
 
 
