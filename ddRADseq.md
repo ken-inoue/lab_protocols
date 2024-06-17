@@ -8,6 +8,8 @@ The present ddRAD protocol as been slightly adapted from Alan Brelsford's protoc
 
 [ddRADseq at a glance](https://github.com/ken-inoue/lab_protocols/assets/151090195/a970a2e2-8c46-43b6-b73e-9df929fda2df)
 
+Step 1: [Preparation of double-stranded adapters](
+
 ### Equipment and supplies
 - PCR plates
 - PCR tube strips
