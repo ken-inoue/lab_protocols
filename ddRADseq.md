@@ -190,6 +190,7 @@ In each well:
 44. Using a multichannel pipette, transfer 10 µL of DNA into its corresponding well on the PCR plate and mix by pipetting.
 45. Aliquot the 40 µL total volume in the PCR plate by transfering 30 µL from each well into 3 new PCR plates (10 µL of PCR mix per plate). Seal all 4 PCR plates and spin down.
 46. Plate all 4 plates in thermal cyclers and start PCR simultaneously using the following program: 98°C for 30s, 15x [98°C for 20s, 60°C for 60s, 72°C for 40s], 72°C for 10min, 12°C hold.
+
 *PCR will be performed in parallel in 4 different thermal cyclers in order to reduce PCR bias. Products are pooled back into a single plate after PCR using a multichannel pipette.*
 #### PCR (second cycle)
 
