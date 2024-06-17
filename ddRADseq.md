@@ -17,7 +17,7 @@ The present ddRAD protocol as been slightly adapted from Alan Brelsford's protoc
 
 [Bead purification](https://github.com/ken-inoue/lab_protocols/blob/main/ddRADseq.md#bead-purification)
 
-[PCR](https://github.com/ken-inoue/lab_protocols/blob/main/ddRADseq.md#pcr)
+[PCR](https://github.com/ken-inoue/lab_protocols/blob/main/ddRADseq.md#pcr-first-cycle)
 
 ### Equipment and supplies
 - PCR plates
