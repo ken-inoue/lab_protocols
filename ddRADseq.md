@@ -162,7 +162,37 @@ In each well:
 35. Place the plate back on the magnetic rack and incubate for 5 minutes until eluate is clear and colorless and beads are pelleted on the walls of each well.
 36. Transfer 35 µL of eluate containing purified DNA to a new 96-well plate. Disgard the purification plate.
 37. Seal and store the plate at 4°C and proceed with the purification of columns 5-8 and 9-12 as described above. Once finished, seal and store the plate at 4°C for short term storage or -20°C for long term storage until PCR amplification.
-#### PCR
+#### PCR (first cycle)
+38. Prepare the following master mixes in 5 mL and 1.5 mL Eppendorf tubes, respectively, as shown below:
+
+###### 5 mL tube
+|Reagents|Concentration (stock)|N=1|N=104 (1 plate)|
+|:--------|:-----|:-----|:----|
+|NEB Q5 buffer|5X|8 µL|832 µL|
+|dNTP mix|25mM|0.3 µL|31.2 µL|
+|NEB Q5 hotstart hifi DNA polymerase|2u/µL|0.4 µL|41.6 µL|
+|NEB high GC enhancer|5X|8.0 µL|832 µL|
+|Nuclease-free H2O||3.3 µL|343.2 µL|
+|**Total volume**||20 µL|2080 µL|
+
+###### 1.5 mL tubes (4 tubes total for a 96-well plate, 1 index per tube)
+|Reagents|Concentration (stock)|N=1|N=28 (3 columns)|
+|:--------|:-----|:-----|:----|
+|illPCR primer mix (illPCR1 and illPCR2)|5X|1.4 µL|39.2 µL|
+|Nuclease-free H2O||8.6 µL|240.8 µL|
+|**Total volume**||10 µL|280 µL|
+
+39. Vortex all 5 tubes of master mixes and spin down.
+40. Aliquot 130 µL of the first master mix (in 5 mL tube) into each well of 2 8-PCR tube strips. Using a multichannel pipette, dispense 20 µL of the first master mix into each well of a new 96-well plate.
+41. Aliquot 93 µL of the 4 primer PCR mixes (1.5 mL tubes) into each well of a 12-PCR tube strip (3 wells per index primer mix). [Example image](https://github.com/ken-inoue/lab_protocols/assets/151090195/9d344063-1fdf-4491-adb6-bfdb9b72d191)
+42. Using a 12 multichannel pipette, dispense 10 µL of the PCR mixes by rows into each well of the 96-well plate containing the first master mix.
+43. Spin down the adaptor-ligated purified DNA plate.
+44. Using a multichannel pipette, transfer 10 µL of DNA into its corresponding well on the PCR plate and mix by pipetting.
+45. Aliquot the 40 µL total volume in the PCR plate by transfering 30 µL from each well into 3 new PCR plates (10 µL of PCR mix per plate). Seal all 4 PCR plates and spin down.
+46. Plate all 4 plates in thermal cyclers and start PCR simultaneously using the following program: 98°C for 30s, 15x [98°C for 20s, 60°C for 60s, 72°C for 40s], 72°C for 10min, 12°C hold.
+*PCR will be performed in parallel in 4 different thermal cyclers in order to reduce PCR bias. Products are pooled back into a single plate after PCR using a multichannel pipette.*
+#### PCR (second cycle)
+
 
 
 
