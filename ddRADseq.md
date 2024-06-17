@@ -8,7 +8,14 @@ The present ddRAD protocol as been slightly adapted from Alan Brelsford's protoc
 
 [ddRADseq at a glance](https://github.com/ken-inoue/lab_protocols/assets/151090195/a970a2e2-8c46-43b6-b73e-9df929fda2df)
 
-Step 1: [Preparation of double-stranded adapters](
+#### Procedure shortcuts:
+[Preparation of double-stranded adapters](https://github.com/ken-inoue/lab_protocols/blob/d1c7969c84fe803d70fe69a6cf244c738a5397c7/ddRADseq.md?plain=1#L69)
+
+[Double digestion](https://github.com/ken-inoue/lab_protocols/blob/d1c7969c84fe803d70fe69a6cf244c738a5397c7/ddRADseq.md?plain=1#L95)
+
+[Adaptor ligation](https://github.com/ken-inoue/lab_protocols/blob/d1c7969c84fe803d70fe69a6cf244c738a5397c7/ddRADseq.md?plain=1#L113)
+
+[Bead purification](https://github.com/ken-inoue/lab_protocols/blob/d1c7969c84fe803d70fe69a6cf244c738a5397c7/ddRADseq.md?plain=1#L136)
 
 ### Equipment and supplies
 - PCR plates
