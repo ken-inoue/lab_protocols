@@ -1,4 +1,4 @@
-## ddRADSeq
+## ddRADseq
 
 ### Summary
 This protocol describes a double digested restriction-site associated DNA (ddRADseq) procedure, that is a variation on the original RAD sequencing method (Davey & Blaxter 2011), which is used for de novo SNP discovery and genotyping. 
