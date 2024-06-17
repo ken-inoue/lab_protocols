@@ -46,5 +46,5 @@ This is a general DNA/RNA lab manual from how to make reagents to DNA sequencing
 ## ddRADSeq
 
 - [Adapters and indexes](ddRADseq_adapter.md)
-- [ddRADSeq Protocol](ddRADSeq.md)
+- [ddRADseq Protocol](ddRADSeq.md)
 
