@@ -201,9 +201,9 @@ In each well:
 |Reagents|Concentration (stock)|N=1|N=28 (3 columns)|
 |:--------|:-----|:-----|:----|
 |NEB Q5 buffer|5X|0.8 µL|24 µL|
-|dNTP mix|10mM|0.08 µL|9.6 µL|
-|illPCR primer mix (illPCR1 and illPCR2)|5X|0.8 µL|48 µL|
-|Nuclease-free H2O||0.8 µL|38.4 µL|
+|dNTP mix|10mM|0.8 µL|24 µL|
+|illPCR primer mix (illPCR1 and illPCR2)|5X|1.6 µL|48 µL|
+|Nuclease-free H2O||0.8 µL|24 µL|
 |**Total volume**||4 µL|120 µL|
 
 ## Issue here with volume of 4? double check
