@@ -44,12 +44,12 @@ The present ddRAD protocol as been slightly adapted from Alan Brelsford's protoc
 - 100 %  ethanol (molecular biology grade)
 - Gel electrophoresis materials/reagents
 - DNAse-Rnase free ultrapure water
-- PstI-HF® ref NEB : R3140S
-  - PstI adapter p1.1: ACACTCTTTCCCTACACGACGCTCTTCCGATCTnnnnnnTGCA
-  - PstI adapter p1.2: nnnnnnAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
-- MseI  ref Neb : R0525S
-    - MseI adaptor 2.1: GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT
-    - MseI adaptor 2.2: /5Phos/TAAGATCGGAAGAGCGAGAACAA
+- EcoRI-HF® ref NEB : R3140S
+  - EcoRI adapter p1.1: ACACTCTTTCCCTACACGACGCTCTTCCGATCTnnnnnnTGCA
+  - EcoRi adapter p1.2: nnnnnnAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
+- MspI  ref Neb : R0525S
+    - MspI adaptor 2.1: GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT
+    - MspI adaptor 2.2: /5Phos/TAAGATCGGAAGAGCGAGAACAA
     - (AT rich genomes) MspI adaptor 2.1 : GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT
     - (At rich genomes) MspI adaptor 2.2:  /5Phos/CGAGATCGGAAGAGCGAGAACAA
 - ILLPCR1 primer: aaTGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACG
@@ -111,8 +111,8 @@ In each well:
 |:--------|:-----|:-----|:-----|:-----|
 |Genomic DNA|NA|50-200 ng|30 µL|NA|
 |Cutsmart buffer|10X|1X|3.5 µL|364 µL|
-|Enzyme 1 Pst HF|20u/µL|8U|0.4 µL|41.6 µL|
-|Enzyme 2 Msel|10u/µL|2 U|0.2 µL|20.8 µL|
+|Enzyme 1 EcoRI HF|20u/µL|8U|0.4 µL|41.6 µL|
+|Enzyme 2 Mspl|10u/µL|2 U|0.2 µL|20.8 µL|
 |Nuclease-free H2O|NA|NA|0.9 µL|93.6 µL|
 |Total volume|||35 µL||
 
