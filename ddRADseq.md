@@ -112,8 +112,8 @@ In each well:
 |Genomic DNA|NA|50-200 ng|30 µL|NA|
 |Cutsmart buffer|10X|1X|3.5 µL|364 µL|
 |Enzyme 1 EcoRI HF|20u/µL|8U|0.4 µL|41.6 µL|
-|Enzyme 2 Mspl|10u/µL|2 U|0.2 µL|20.8 µL|
-|Nuclease-free H2O|NA|NA|0.9 µL|93.6 µL|
+|Enzyme 2 Mspl|20u/µL||0.1 µL|10.4 µL|
+|Nuclease-free H2O|NA|NA|1 µL|104 µL|
 |Total volume|||35 µL||
 
 10. Vortex and spin down the master mix. Aliquot 65 µL of master mix into each well of an 8-PCR tube strip.
