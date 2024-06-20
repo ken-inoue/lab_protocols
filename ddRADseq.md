@@ -131,7 +131,6 @@ In each well:
 |Cutsmart buffer|10X|1X|1 µL|104 µL|
 |ATP|10mM|1mM|4 µL|416 µL|
 |T4 DNA ligase|400u/µL|NA|0.4 µL|41.6 µL|
-|Nuclease-free H2O|NA|NA|0.9 µL|93.6 µL|
 |Total volume|||7.2 µL||
 ###### Ligation Master Mix
 |Reagents|N=1|
