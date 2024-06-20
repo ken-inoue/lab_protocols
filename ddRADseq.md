@@ -44,10 +44,10 @@ The present ddRAD protocol as been slightly adapted from Alan Brelsford's protoc
 - 100 %  ethanol (molecular biology grade)
 - Gel electrophoresis materials/reagents
 - DNAse-Rnase free ultrapure water
-- EcoRI-HF® ref NEB : R3140S
+- EcoRI-HF®
   - EcoRI adapter p1.1: ACACTCTTTCCCTACACGACGCTCTTCCGATCTnnnnnnTGCA
   - EcoRi adapter p1.2: nnnnnnAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
-- MspI  ref Neb : R0525S
+- MspI  ref
     - MspI adaptor 2.1: GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT
     - MspI adaptor 2.2: /5Phos/TAAGATCGGAAGAGCGAGAACAA
     - (AT rich genomes) MspI adaptor 2.1 : GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT
