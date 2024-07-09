@@ -41,7 +41,7 @@ This is a general DNA/RNA lab manual from how to make reagents to DNA sequencing
 - [Nanopore library prep and sequencing](Nanopore.md)
 
 ## GeneMapper
-- Fragment analysis
+- [Fragment analysis](Fragment_Analysis.md)
 
 ## ddRADSeq
 
