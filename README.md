@@ -42,6 +42,7 @@ This is a general DNA/RNA lab manual from how to make reagents to DNA sequencing
 
 ## GeneMapper
 - [Fragment analysis](Fragment_Analysis.md)
+- [Genome skimming](Genome_skimming.md)
 
 ## ddRADSeq
 
