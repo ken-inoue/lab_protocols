@@ -26,7 +26,7 @@ All reagents should be kept frozen until you are ready to use. Repeated freezing
 ### Procedure
 To minimize pipette error and chances of contamination, you will first make a master mix solution depending on how many samples you are running plus 2 (one for a negative control and one to account for pipetting error). This master mix solution is then put into each tube so that you are not putting in each reagent into each tube separately.
 
-#### PCR for Sanger Sequencing
+#### PCR for Nanopore
 1.	Thaw all reagents and keep them on ice. Briefly vortex and spin to collect the material at the bottom of the tubes.
 2.	Mix the following PCR reaction master mix solution on ice in a 1.5 mL Eppendorf tube. Vortex well.
 
