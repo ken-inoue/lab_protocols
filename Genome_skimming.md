@@ -7,13 +7,13 @@ When you load the flow cell and prep it for processing with MinKNOW, make sure t
 
 ### Analysis
 Potential programs and helpful tips for analysis are listed below along with their functions.
-##### QC
+#### QC
 - [PycoQC](https://github.com/a-slide/pycoQC)
     - Used to check quality of raw and cleaned Nanopore data
     - Requires a summary.txt file, but can also generate a summary from fast5 files
     - Supports data generated from Minion, basecalling by MinKNOW, Albacore, or Guppy
     - Written in Python
-##### Cleanup
+#### Cleanup
 - [Porechop](https://github.com/rrwick/Porechop)
     - Finds and removes adapters from Nanopore sequencing data
     - Con: Database of recognized adaptors is somewhat limited as new adaptors are being manufactured for Nanopore sequencing protocols
@@ -25,7 +25,7 @@ Potential programs and helpful tips for analysis are listed below along with the
     - Can filter based on a specified Q score
     - Can filter based on a specified minimum and maximum read length
     - Written for Python, runs on Linux
-##### Assembly
+#### Assembly
 - [Minimap2 (with Geneious)](https://github.com/lh3/minimap2?tab=readme-ov-file)
     - Tip for Nanopore reads: use ava-ont mode and (-r 10,000) to help with long-read overlap
     - This program does not work well with large amounts of short-read overlap
@@ -36,9 +36,9 @@ Potential programs and helpful tips for analysis are listed below along with the
       - asm15 = divergence ≤ 20% *mapping divergence up to 15% has not been carefully evaluated*
 - [Flye](https://github.com/mikolmogorov/Flye)
     - Uses de novo assembly to generate a consensus sequence
-##### Polishing
+#### Polishing
 
-##### Annotation
+#### Annotation
 - [GeSeq](https://chlorobox.mpimp-golm.mpg.de/geseq.html)
     - Developed for plant chloroplasts, but can be used for mitochondrial genomes
     - Option to map to multiple reference genomes
