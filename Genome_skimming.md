@@ -7,6 +7,7 @@ When you load the flow cell and prep it for processing with MinKNOW, make sure t
 
 ### Analysis
 Potential programs and helpful tips for analysis are listed below along with their functions.
+Note: N50 denotes the length of the shortest sequence in the group of largest sequences representing at least 50% of all nucleotides in the set of sequences.
 #### QC
 - [PycoQC](https://github.com/a-slide/pycoQC)
     - Used to check quality of raw and cleaned Nanopore data
