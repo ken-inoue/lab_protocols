@@ -7,4 +7,20 @@ When you load the flow cell and prep it for processing with MinKNOW, make sure t
 
 ### Analysis
 Potential programs and helpful tips for analysis are listed below along with their functions.
+##### QC
+- [PycoQC](https://github.com/a-slide/pycoQC)
+    - Used to check quality of raw and cleaned Nanopore data
+    - Requires a summary.txt file, but can also generate a summary from fast5 files
+    - Supports data generated from Minion, basecalling by MinKNOW, Albacore, or Guppy
+    - Written in Python
+##### Cleanup
 
+##### Assembly
+- [Minimap2 (with Geneious)](https://github.com/lh3/minimap2?tab=readme-ov-file)
+    -   Tip for Nanopore reads: use ava-ont mode and (-r 10,000) to help with long-read overlap
+    -   This program does not work well with large amounts of short-read overlap
+    -   For cross species alignment:
+       - asm5 = divergence <1%
+      - asm10 = divergence ~2-3%
+      - asm15 = divergence ≤ 20% *mapping divergence up to 15% has not been carefully evaluated*
+- [Flye](https://github.com/mikolmogorov/Flye)
