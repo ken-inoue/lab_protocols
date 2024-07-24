@@ -37,7 +37,16 @@ Potential programs and helpful tips for analysis are listed below along with the
 - [Flye](https://github.com/mikolmogorov/Flye)
     - Uses de novo assembly to generate a consensus sequence
 #### Polishing
-
+- [Racon](https://github.com/isovic/racon)
+    - Polishing and read-error correction tool
+- [Minipolish](https://github.com/rrwick/Minipolish)
+    - Uses Racon to polish miniasm assemblies while keeping outputs in graphical form *miniasm is a potential pathway for assembly used in conjunction with minimap2*
+- [Pilon](https://github.com/broadinstitute/pilon)
+    - Corrects indels and SNPs after using Racon/Minipolish
+- [Medaka](https://github.com/nanoporetech/medaka)
+    - Corrects indels and SNPs after using Racon/Minipolish
+- [Sniffles](https://github.com/fritzsedlazeck/Sniffles)
+    - Varient calling
 #### Annotation
 - [GeSeq](https://chlorobox.mpimp-golm.mpg.de/geseq.html)
     - Developed for plant chloroplasts, but can be used for mitochondrial genomes
