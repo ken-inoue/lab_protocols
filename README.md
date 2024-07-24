@@ -17,6 +17,7 @@ This is a general DNA/RNA lab manual from how to make reagents to DNA sequencing
 ## Extraction
 - [CTAB/Chroloform DNA Extraction](CTAB_extraction.md)
 - [Phenol/Chloroform Extraction](Phenol-chloroform_extraction.md)
+- [In development-Extraction for juveniles and glochidia](Juv_gloch_extraction.md)
 
 ## Quantification & Qualification of DNA 
 - [Electrophoresis](gel_electrophoresis.md)
@@ -42,7 +43,7 @@ This is a general DNA/RNA lab manual from how to make reagents to DNA sequencing
 
 ## GeneMapper
 - [Fragment analysis](Fragment_Analysis.md)
-- [Genome skimming](Genome_skimming.md)
+- [In development-Genome skimming](Genome_skimming.md)
 
 ## ddRADSeq
 
