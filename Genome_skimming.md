@@ -27,10 +27,26 @@ Potential programs and helpful tips for analysis are listed below along with the
     - Written for Python, runs on Linux
 ##### Assembly
 - [Minimap2 (with Geneious)](https://github.com/lh3/minimap2?tab=readme-ov-file)
-    -   Tip for Nanopore reads: use ava-ont mode and (-r 10,000) to help with long-read overlap
-    -   This program does not work well with large amounts of short-read overlap
-    -   For cross species alignment:
-       - asm5 = divergence <1%
+    - Tip for Nanopore reads: use ava-ont mode and (-r 10,000) to help with long-read overlap
+    - This program does not work well with large amounts of short-read overlap
+    - Option for de novo assembly or assembly using a reference sequence
+    - For cross species alignment:
+      - asm5 = divergence <1%
       - asm10 = divergence ~2-3%
       - asm15 = divergence ≤ 20% *mapping divergence up to 15% has not been carefully evaluated*
 - [Flye](https://github.com/mikolmogorov/Flye)
+    - Uses de novo assembly to generate a consensus sequence
+##### Polishing
+
+##### Annotation
+- [GeSeq](https://chlorobox.mpimp-golm.mpg.de/geseq.html)
+    - Developed for plant chloroplasts, but can be used for mitochondrial genomes
+    - Option to map to multiple reference genomes
+    - Generates a graphic of the annotated genomes with gaps to denote missing sequences
+    - Optimized for use with with Nanopore data
+- [MITOS](http://mitos.bioinf.uni-leipzig.de/)
+    - Used by multiple researchers for Nanopore data
+    - No graphic of annotated genome
+- [MitoZ](https://github.com/linzhi2013/MitoZ)
+    - Used by multiple researchers for Nanopore data
+    - No graphic of annoted genome
