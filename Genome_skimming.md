@@ -14,7 +14,17 @@ Potential programs and helpful tips for analysis are listed below along with the
     - Supports data generated from Minion, basecalling by MinKNOW, Albacore, or Guppy
     - Written in Python
 ##### Cleanup
-
+- [Porechop](https://github.com/rrwick/Porechop)
+    - Finds and removes adapters from Nanopore sequencing data
+    - Con: Database of recognized adaptors is somewhat limited as new adaptors are being manufactured for Nanopore sequencing protocols
+    - Can choose to split sequences with a middle adaptor or leave them intact
+    - Runs on Linux or macOS
+- [NanoFilt](https://github.com/wdecoster/nanofilt)
+    - Filters and trims based on read quality and length
+    - Can specify a number of nucleotides to trim from the beginning and end of each read
+    - Can filter based on a specified Q score
+    - Can filter based on a specified minimum and maximum read length
+    - Written for Python, runs on Linux
 ##### Assembly
 - [Minimap2 (with Geneious)](https://github.com/lh3/minimap2?tab=readme-ov-file)
     -   Tip for Nanopore reads: use ava-ont mode and (-r 10,000) to help with long-read overlap
