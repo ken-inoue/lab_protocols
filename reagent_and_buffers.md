@@ -8,6 +8,12 @@
 |NaCl      | 146.1 g      |
 |ddH2O	   | 500 mL       |
 
+### 6 M NaCl
+| Chemical | Amount       |
+|:---------|:-------------|
+|NaCl      | 175.3 g      |
+|ddH2O	   | 500 mL       |
+
 ### 1 M Tris-HCl, pH8.0
 |Chemical	 |Amount        |
 |:---------|:-------------|
