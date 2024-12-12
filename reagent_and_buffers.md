@@ -34,6 +34,13 @@
 |ddH2O      |100 mL  |
 * Heating required
 
+### 20% SDS
+| Chemical  | Amount |
+|:----------|:-------|
+|SDS        |20 g    |
+|ddH2O      |100 mL  |
+* Heating required
+
 ### 3 M NaOAc pH5.2
 |Chemical               |Amount        |
 |:----------------------|:-------------|
@@ -44,14 +51,13 @@
 ## Buffers
 
 ### Lysis Buffer Solution
-|Reagent         |Amount |
-|:---------------|:------|
-|5M NaCl         |1.5 mL |
-|0.5M EDTA pH 8.0| 1 mL |
-|1M Tris pH 8.0  |0.5 mL |
-|10% SDS         |5 mL |
-|ddH2O           | 42 mL|
-
+|Reagent          |Amount |
+|:----------------|:------|
+|5M NaCl          |1.5 mL |
+|0.5M EDTA pH 8.0 | 1 mL |
+|1M Tris pH 8.0   |0.5 mL |
+|10% SDS          |5 mL |
+|ddH2O            | 42 mL|
 
 ### 2x CTAB Buffer Solution
 |Reagent          |Amount |
@@ -62,6 +68,15 @@
 |10% CTAB         | 20 mL |
 |Mercaptoethanol  |0.2 mL |
 | ddH2O           |37.8 mL|
+
+### Salf Buffer Solution (100 mL)
+|Reagent          |Final Concentration|Amount   |
+|:----------------|:------------------|:--------|
+|5 M NaCl         |0.4 M              |   8 mL  |
+|1 M Tris pH 8.0  |10 mM              |   1 mL  |
+|0.5 M EDTA pH 8.0|2 mM               | 0.4 mL  |
+|20 % SDS         |2 %                | 10 mL   |
+|ddH2O            |                   |to 100 mL|
 
 ### 50x TAE Buffer Solution
 |Reagent             |Amount    |
