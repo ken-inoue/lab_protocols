@@ -30,7 +30,7 @@ PCR products should be kept frozen until use. Products can be taken out and thaw
 2. Pool the PCR products in the 8-strip tube into a single 1.5 mL tube.
 3. Take a 500 μL subsample of pooled producted from the tube and add it to a clean 1.5 mL tube.
 #### Cleanup of pooled products
-5. Add a .5X ratio of SPRI beads to the tube containing the subsample of pooled products. For 500 μL, add 250 μL SPRI beads.
+5. Add a .7x ratio (for COI) of SPRI beads to the tube containing the subsample of pooled products. For 500 μL, add 350 μL SPRI beads.
 6. Incubate the tube at room temperature for 10 minutes to allow DNA to bind to the beads.
 7. Pellet SPRI beads on a magnetic rack for 2 minutes until supernatant is clear and colorless.
 8. Leaving the tube on the magnetic rack, pipette off the supernatant without disturbing the beads. Place the supernatant in a clean 1.5 mL tube and set aside.
