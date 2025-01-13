@@ -221,7 +221,7 @@ In each well:
 
 54. Use Qubit to estimate the DNA concentration of the pooled samples. If the DNA concentration is lower than 20 nM, perform a 1:1 bead clean-up following the steps in the "Bead purification" section on a partial volume of the pool to improve the final concentration of DNA. Elution should be done in at least 50 µL, but adapt volume to the desired final concentration.
 #### Size-selection with Pippin-Prep
-55. Perform size selection on fragments between 300-800 bp using a 1.5% DF marker K agarose gel cassette. Follow manufacturer instructions [here](https://github.com/user-attachments/files/15877171/Quick-Guide-CDF1510-marker-K3.pdf).
+55. Perform size selection on fragments between 300-800 bp using a 1.5% DF marker K agarose gel cassette. Follow manufacturer instructions [here](https://github.com/user-attachments/files/15877171/Quick-Guide-CDF1510-marker-K3.pdf). Field Museum uses [this version](https://sagescience.com/wp-content/uploads/2022/03/Quick-Guide-BDF1510-marker-R2-460048-RevB-9_07_21.pdf).
 #### Quality control
 56. Use a Bioanalyzer (Agilent) in a High Sensitivity DNA chip to control the quality of the library. Dilute your pool 1:2 or more and load 1 µL of the pool before and after size selection, following manufacturer instructions [here](https://github.com/user-attachments/files/15877223/HighSensitivity_DNA_KG.pdf.pdf). [Example Bioanalyzer profile](https://github.com/ken-inoue/lab_protocols/assets/151090195/56fbe4a0-87c6-4629-8e7b-89eead0b8db4)
 #### Concentration estimation
