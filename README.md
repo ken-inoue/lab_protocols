@@ -18,6 +18,7 @@ This is a general DNA/RNA lab manual from how to make reagents to DNA sequencing
 - [CTAB/Chroloform DNA Extraction](CTAB_extraction.md)
 - [Phenol/Chloroform Extraction](Phenol-chloroform_extraction.md)
 - [In development-Extraction for juveniles and glochidia](Juv_gloch_extraction.md)
+- Quick Extract (maybe)
 
 ## Quantification & Qualification of DNA 
 - [Electrophoresis](gel_electrophoresis.md)
