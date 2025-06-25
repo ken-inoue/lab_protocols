@@ -45,7 +45,7 @@ See “Procedure” section.
 8. Remove tubes from the water bath and cool to room temperature.
  - For the swab samples, remove swabs from the tubes and discard them. 
 9. Add 700 µL of chloroform and vortex vigorously for 30 seconds.
-10. Centrifuge at 11,000 rcf for 10 minutes.
+10. Centrifuge at 11,000 rcf for 5 minutes.
 11. Transfer the supernatant (top, clear layer only) into a new (labeled) microcentrifuge tube using a pipette. (Discard the bottom layers in chemical wastes.)
 12. Precipitate DNA by adding 700 µL of ice-cold isopropanol, vortex for 10 seconds, and place in a -20°C freezer overnight.
 
@@ -53,11 +53,11 @@ See “Procedure” section.
 13. Centrifuge at maximum speed (>16,000 rcf) for 30 minutes.
 14. Discard the liquid layer.
  - Generally, a small pellet is fomred at the bottom of the tube (however, not always visible). Gently tip the tube and pour off the liquid layer into an empty beaker, being careful not to let the pellet fall out of the tube.
- - Occasionally, two layers of liquid are formed instead of a small pellet. Discard the supernatant using a pipette.
+ - Occasionally, two layers of liquid are formed instead of a small pellet. Discard the supernatant using a pipette, leaving the cloudier layer in the tube.
 15. Add 200 µL of ice-cold 70% ethanol and briefly vortex.
 16. Centrifuge at maximum speed (>16,000 rcf) for 30 minutes
 17. Discard the liquid layer (70% ethanol). (Same fashion as step 14).
-18. Invert the microcentrifuge tube on a paper towel and let the DNA pellet air-dry for 30 minutes (until residual ethanol evaporates. DO NOT OVER DRY).
+18. Invert the microcentrifuge tube on a paper towel and let the DNA pellet air-dry, generally at least 1 hour, until residual ethanol evaporates. DO NOT OVER DRY.
 19. Resuspend the DNA pellet in molecular-grade water (50 µl) and incubate at 55°C for 1 hour.
 20. Briefly vortex and spin down; store DNA in freezer.
 
