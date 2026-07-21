@@ -36,6 +36,7 @@ For 20-µL reaction volume:
 |Forward primer (10 µM)	|1 µL| 0.1 – 1.0 µM| | 20 µL|
 |Reverse primer	(10 µM) |1 µL| 0.1 – 1.0 µM| x 20| 20 µL|
 |Molecular grade H2O	|6 µL| N.A.| |  120 µL|
+
 |DNA template (10 ng/µL) |2 µL| <250 ng| | N.A|
 
 For 10-µL reaction volume:
@@ -45,6 +46,7 @@ For 10-µL reaction volume:
 |Forward primer (10 µM)	|0.5 µL| 0.1 – 1.0 µM|
 |Reverse primer	(10 µM) |0.5 µL| 0.1 – 1.0 µM|
 |Molecular grade H2O	|3 µL| N.A.|
+
 |DNA template (10 ng/µL) |1 µL| <250 ng|
 
 
