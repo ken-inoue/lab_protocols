@@ -56,10 +56,10 @@ Added individually to each well:
 |:--------|:-----|:-------------------|
 |DNA template (10 ng/µL) |2 µL| <250 ng|
 
-2.	Add 9 or 18µL (depending on chosen reaction volume) of master mix to each labeled PCR tube.
-3.	Aliquot 1 or 2µL (depending on chosen reaction volume) DNA into properly labeled, small PCR tubes. Use a new tip for each sample. Run one sample with DNA but only master mix. Label this tube as X or NC for negative control. (If you get amplification in the negative control, something has been contaminated).
-4.	Remove any bubbles in the tubes by spinning in the fish-eye centrifuge. If this does not work, try popping bubbles with a small pipette tip.
-5.	Close tubes and place them into the thermal cycler and run program. (Program will vary with project and gene being amplified).
+3.	Add 9 or 18µL (depending on chosen reaction volume) of master mix to each labeled PCR tube.
+4.	Aliquot 1 or 2µL (depending on chosen reaction volume) DNA into properly labeled, small PCR tubes. Use a new tip for each sample. Run one sample with DNA but only master mix. Label this tube as X or NC for negative control. (If you get amplification in the negative control, something has been contaminated).
+5.	Remove any bubbles in the tubes by spinning in the fish-eye centrifuge. If this does not work, try popping bubbles with a small pipette tip.
+6.	Close tubes and place them into the thermal cycler and run program. (Program will vary with project and gene being amplified).
 
 ### Clean up
 
