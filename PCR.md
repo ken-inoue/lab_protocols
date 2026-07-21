@@ -26,9 +26,9 @@ To minimize pipette error and chances of contamination, you will first make a ma
 
 #### PCR for Sanger Sequencing
 1.	Thaw all reagents and keep them on ice. Briefly vortex and spin to collect the material at the bottom of the tubes.
-2.	Make one of the following PCR reaction mix solutions on ice.
+2.	Make one of the following PCR reaction mix solutions on ice. Make enough for # of samples plus 2 extra (1 for negative control, 1 for pipetting error). 
 
-The followings are an example for 16 samples in 10-µL and 20-µL reaction volumes.
+The followings are an example for samples in 10-µL and 20-µL reaction volumes.
 
 Master Mix for 10-µL reaction volume:
 |Reagents	|Amount| Final concentration|
@@ -44,20 +44,17 @@ Added individually to each well:
 |DNA template (10 ng/µL) |1 µL| <250 ng|
 
 Master Mix for 20-µL reaction volume:
-|Reagents	|Amount| Final concentration| Number of samples | Total volume|
-|:--------|:-----|:-------------------|:------------------|:------------|
-|GoTaq Master Mix	|10 µL| 1X| | 200 µL|
-|Forward primer (10 µM)	|1 µL| 0.1 – 1.0 µM| | 20 µL|
-|Reverse primer	(10 µM) |1 µL| 0.1 – 1.0 µM| x 20| 20 µL|
-|Molecular grade H2O	|6 µL| N.A.| |  120 µL|
+|Reagents	|Amount| Final concentration|
+|:--------|:-----|:-------------------|
+|GoTaq Master Mix	|10 µL| 1X|
+|Forward primer (10 µM)	|1 µL| 0.1 – 1.0 µM|
+|Reverse primer	(10 µM) |1 µL| 0.1 – 1.0 µM|
+|Molecular grade H2O	|6 µL| N.A.|
 
 Added individually to each well:
 |Reagents	|Amount| Final concentration| 
 |:--------|:-----|:-------------------|
-|DNA template (10 ng/µL) |2 µL| <250 ng| | N.A|
-
-Make enough for # of samples plus 2 extra (1 for negative control, 1 for pipetting error). 
-For example, you will make enough PCR mix solution for 10 samples if you have 8 samples (plus 1 for negative control, 1 for pipetting error).
+|DNA template (10 ng/µL) |2 µL| <250 ng|
 
 2.	Add 9 or 18µL (depending on chosen reaction volume) of master mix to each labeled PCR tube.
 3.	Aliquot 1 or 2µL (depending on chosen reaction volume) DNA into properly labeled, small PCR tubes. Use a new tip for each sample. Run one sample with DNA but only master mix. Label this tube as X or NC for negative control. (If you get amplification in the negative control, something has been contaminated).
