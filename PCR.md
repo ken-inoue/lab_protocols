@@ -29,6 +29,7 @@ To minimize pipette error and chances of contamination, you will first make a ma
 2.	Make one of the following PCR reaction mix solutions on ice.
 
 The followings are an example for 16 samples in 20-µL and 10-µL reaction volumes.
+
 Master Mix for 20-µL reaction volume:
 |Reagents	|Amount| Final concentration| Number of samples | Total volume|
 |:--------|:-----|:-------------------|:------------------|:------------|
@@ -41,6 +42,7 @@ Added individually to each well:
 |Reagents	|Amount| Final concentration| 
 |:--------|:-----|:-------------------|
 |DNA template (10 ng/µL) |2 µL| <250 ng| | N.A|
+
 
 Master Mix for 10-µL reaction volume:
 |Reagents	|Amount| Final concentration|
