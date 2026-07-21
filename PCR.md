@@ -29,7 +29,7 @@ To minimize pipette error and chances of contamination, you will first make a ma
 2.	Make one of the following PCR reaction mix solutions on ice.
 
 The followings are an example for 16 samples in 20-µL and 10-µL reaction volumes.
-For 20-µL reaction volume:
+Master Mix for 20-µL reaction volume:
 |Reagents	|Amount| Final concentration| Number of samples | Total volume|
 |:--------|:-----|:-------------------|:------------------|:------------|
 |GoTaq Master Mix	|10 µL| 1X| | 200 µL|
@@ -37,9 +37,12 @@ For 20-µL reaction volume:
 |Reverse primer	(10 µM) |1 µL| 0.1 – 1.0 µM| x 20| 20 µL|
 |Molecular grade H2O	|6 µL| N.A.| |  120 µL|
 
+Added individually to each well:
+|Reagents	|Amount| Final concentration| 
+|:--------|:-----|:-------------------|
 |DNA template (10 ng/µL) |2 µL| <250 ng| | N.A|
 
-For 10-µL reaction volume:
+Master Mix for 10-µL reaction volume:
 |Reagents	|Amount| Final concentration|
 |:--------|:-----|:-------------------|
 |Taq Master Mix	|5 µL| 1X|
@@ -47,6 +50,9 @@ For 10-µL reaction volume:
 |Reverse primer	(10 µM) |0.5 µL| 0.1 – 1.0 µM|
 |Molecular grade H2O	|3 µL| N.A.|
 
+Added individually to each well:
+|Reagents	|Amount| Final concentration| 
+|:--------|:-----|:-------------------|
 |DNA template (10 ng/µL) |1 µL| <250 ng|
 
 
