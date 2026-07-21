@@ -31,7 +31,7 @@ Master Mix #1 for 10-µL reaction volume:
 |:--------|:-----|:-------------------|
 |Bigdye	| 0.5 µL| |
 |Terminator 5x Sequencing Buffer | 1.75 µL| |
-|Forward primer (10 µM)	| 0.5 µL| 0.1 – 1.0 µM|
+|**Forward** primer (10 µM)	| 0.5 µL| 0.1 – 1.0 µM|
 |Molecular grade H2O	| 6.25 µL| N.A.|
 
 Master Mix #2 for 10-µL reaction volume:
@@ -39,7 +39,7 @@ Master Mix #2 for 10-µL reaction volume:
 |:--------|:-----|:-------------------|
 |Bigdye	| 0.5 µL| |
 |Terminator 5x Sequencing Buffer | 1.75 µL| |
-|Reverse primer	(10 µM) | 0.5 µL| 0.1 – 1.0 µM|
+|**Reverse** primer	(10 µM) | 0.5 µL| 0.1 – 1.0 µM|
 |Molecular grade H2O	| 6.25 µL| N.A.|
 
 Added individually to each well:
