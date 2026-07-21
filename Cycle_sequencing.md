@@ -13,7 +13,7 @@ This is a procedure for cycle sequencing. This protocol was designed specificall
 - Thermal cycler
 
 ### Reagents & standards
-- Cleaned PCR products (see [PCR (general & Sanger sequencing)](PCR.md) [PCR cleanup (EXOSAP)](PCR_exosap.md))
+- Cleaned PCR products (see [PCR (general & Sanger sequencing)](PCR.md) & [PCR cleanup (EXOSAP)](PCR_exosap.md))
 - Taq Master Mix (GoTaq Master Mix, Promega)
 - Forward & reverse primers
 - Molecular-grade H2O
